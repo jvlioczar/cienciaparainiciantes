@@ -1,0 +1,17 @@
+# Ciência Para Iniciantes
+
+> Guia gratuito de ciência em português, em três níveis, com fontes: o que é ciência, método científico, epistemologia, níveis de evidência, demarcação, pseudociências e as correntes da filosofia da ciência.
+
+## Principais seções
+
+- [Comece aqui](https://cienciaparainiciantes.biblioverse.org/comece-aqui.html)
+- [Catálogo de lições](https://cienciaparainiciantes.biblioverse.org/catalogo.html)
+- [Trilhas por tema](https://cienciaparainiciantes.biblioverse.org/trilhas.html)
+- [Correntes](https://cienciaparainiciantes.biblioverse.org/correntes.html)
+- [Pseudociências](https://cienciaparainiciantes.biblioverse.org/pseudociencias.html)
+- [Debates](https://cienciaparainiciantes.biblioverse.org/debates.html)
+- [Pensadores](https://cienciaparainiciantes.biblioverse.org/pensadores.html)
+- [Glossário](https://cienciaparainiciantes.biblioverse.org/glossario.html)
+- [Ferramentas](https://cienciaparainiciantes.biblioverse.org/ferramentas.html)
+- [Biblioteca](https://cienciaparainiciantes.biblioverse.org/biblioteca.html)
+- [Sobre e método](https://cienciaparainiciantes.biblioverse.org/sobre.html)
