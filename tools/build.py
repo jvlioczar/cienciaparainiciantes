@@ -320,7 +320,7 @@ def inicio():
     temas = ''.join(f'<a href="catalogo.html?tema={k}">{e(v)}</a>' for k, v in TEMAS.items())
     secoes = ''.join(f'<a class="cartao" href="{u}">{arte.icone(i)}<h3>{e(t)}</h3><p>{e(d)}</p></a>' for u, i, t, d in [
         ('catalogo.html', 'ficha', 'Aprenda', f'{len(TODAS)} lições em três níveis, com busca por tema.'),
-        ('trilhas.html', 'rede', 'Trilhas por tema', f'{len(TRILHAS)} caminhos curtos: o essencial, saúde, filosofia da ciência, realidade e desinformação.'),
+        ('trilhas.html', 'rede', 'Trilhas por tema', f'{len(TRILHAS)} caminhos curtos: o essencial, saúde, pensamento crítico, filosofia da ciência e desinformação.'),
         ('correntes.html', 'arvore', 'Correntes', f'{len(COR)} correntes da epistemologia e da filosofia da ciência: o que cada uma põe no centro.'),
         ('pseudociencias.html', 'lupa', 'Pseudociências', f'{len(PSEUDO)} casos: o que alegam, o que a evidência diz e por que atraem.'),
         ('debates.html', 'valor', 'Debates', f'{len(DEBATES)} debates sobre ciência e sociedade, e para onde a evidência aponta.'),

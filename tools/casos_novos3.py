@@ -51,6 +51,9 @@ JOGO_CONSENSO_DADOS = dict(ops=[CON, ABE, REF], lede='Doze afirmações. Diga se
 ])
 
 GLOSSARIO_NOVOS = [
+ ('Mente e sociedade', 'Pensamento crítico', 'Hábito de avaliar afirmações e argumentos pela evidência e pela lógica antes de aceitá-los, incluindo as próprias crenças; não é desconfiar de tudo, é distribuir a confiança conforme as razões.', 'trilhas.html#pensamento-critico'),
+ ('Mente e sociedade', 'Livre-pensamento', 'Postura e tradição histórica de formar opiniões pela razão e pela evidência, e não por autoridade, tradição ou dogma; ligada ao Iluminismo e ao secularismo, mas não é sinônimo de ateísmo.', 'ciencia-religiao-e-filosofia.html#livre-pensamento-e-secularismo'),
+ ('Mente e sociedade', 'Secularismo', 'Separação entre o Estado e as instituições religiosas, que protege tanto a liberdade de crer quanto a de não crer; no Brasil, o Estado é laico desde 1890.', 'ciencia-religiao-e-filosofia.html#livre-pensamento-e-secularismo'),
  ('Fundamentos', 'Incognoscível', 'O que não pode ser conhecido, em princípio ou na prática.', 'o-incognoscivel.html'),
  ('Fundamentos', 'Agnosticismo', 'Posição de que certas questões, como a existência de Deus, estão além do que podemos saber.', 'o-incognoscivel.html'),
  ('Método e evidência', 'Fraude científica', 'Fabricação, falsificação de dados ou plágio na pesquisa.', 'fraudes-cientificas.html'),
