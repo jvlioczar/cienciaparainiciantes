@@ -71,7 +71,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://cienciaparainiciantes.biblioverse.org'
 NOME = 'Ciência Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-06'
+ATUALIZADO = '2026-11-07'
 CAMPOS = ('slug', 'grupo', 'titulo', 'temas', 'resumo', 'corpo', 'fontes', 'quiz', 'analogia', 'crianca', 'obj', 'caso', 'erro', 'ferr', 'pre', 'guardar', 'pensar')
 
 # ---------- validação e montagem das lições ----------
