@@ -60,4 +60,5 @@ SITES = [
 ('Our World in Data', 'https://ourworldindata.org/', 'Dados e gráficos sobre os grandes problemas do mundo, com fontes.', 'Divulgação científica', INT),
 ('Pesquisa FAPESP', 'https://revistapesquisa.fapesp.br/', 'Jornalismo científico sobre a pesquisa feita no Brasil.', 'Divulgação científica', NAC),
 ('Ciência Hoje', 'https://cienciahoje.org.br/', 'Revista de divulgação científica da SBPC.', 'Divulgação científica', NAC),
+('Universo Racionalista', 'https://universoracionalista.org/', 'Portal brasileiro de divulgação científica, ceticismo e pensamento racional.', 'Divulgação científica', NAC),
 ]
