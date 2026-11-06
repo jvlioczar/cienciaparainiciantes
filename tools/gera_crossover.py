@@ -67,6 +67,7 @@ G = [
  (['fora-da-media.html'], ['deficiencia-e-etica.html'], ['desigualdade-social.html', 'um-sistema-para-todos.html']),
  (['como-achar-e-julgar-artigos.html', 'debates/piramide-de-evidencias.html'], ['debates/pseudociencia-nas-universidades.html'], ['politicas-baseadas-em-evidencias.html']),
  (['letramento-cientifico-no-brasil.html', 'divulgacao-cientifica.html'], ['educacao-moral.html'], ['escola-publica-e-universidade.html', 'checagem-de-fatos.html']),
+ (['debates/conhecimento-nao-cientifico.html', 'debates/conhecimento-tradicional.html'], ['epistemologia-moral.html', 'debates/existe-verdade-moral.html'], ['respeitar-crencas.html']),
  (['pensadores/hume.html'], ['filosofos/hume.html'], []),
  (['pensadores/kant.html'], ['filosofos/kant.html'], []),
  (['pensadores/john-stuart-mill.html'], ['filosofos/mill.html'], []),
