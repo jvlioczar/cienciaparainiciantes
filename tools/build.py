@@ -679,3 +679,7 @@ for s, r, ls, t, d, g in NIVEIS:
     for l in ls: licao(l, ls)
 correntes(); pseudociencias(); debates_pub(); pensadores(); glossario(); ferramentas(); biblioteca(); sites_pub(); sobre(); privacidade(); arquivos()
 print(f'{len(TODAS)} lições, {len(COR)} correntes, {len(PSEUDO)} pseudociências, {len(DEBATES)} debates, {len(PES)} pensadores, {len(FERR)} ferramentas, {len(PAGINAS)} páginas.')
+
+# índice de busca com subtítulos e conteúdo de todas as páginas
+from indice_busca import enriquece
+print(f'{enriquece(ROOT, PAGINAS)} entradas no índice de busca.')
