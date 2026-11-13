@@ -2,6 +2,10 @@
 
 > Guia gratuito de ciência em português, em três níveis, com fontes: o que é ciência, método científico, epistemologia, níveis de evidência, demarcação, pseudociências e as correntes da filosofia da ciência.
 
+Guia educativo gratuito, em português do Brasil, publicado pela BiblioVerse. Cada página traz as fontes ao final; classificações e veredictos são estimativas editoriais explicadas na própria página e abertas a correção.
+
+Atualizado em 07/11/2026. Texto completo das lições e artigos em [llms-full.txt](https://cienciaparainiciantes.biblioverse.org/llms-full.txt).
+
 ## Principais seções
 
 - [Comece aqui](https://cienciaparainiciantes.biblioverse.org/comece-aqui.html)
@@ -15,3 +19,326 @@
 - [Ferramentas](https://cienciaparainiciantes.biblioverse.org/ferramentas.html)
 - [Biblioteca](https://cienciaparainiciantes.biblioverse.org/biblioteca.html)
 - [Sobre e método](https://cienciaparainiciantes.biblioverse.org/sobre.html)
+
+## Lições do nível Iniciante
+
+- [Ceticismo responsável](https://cienciaparainiciantes.biblioverse.org/ceticismo-responsavel.html): Duvidar bem é diferente de duvidar de tudo. Proporção, coerência, saber quando parar e não confundir dúvida com negação: como ser cético sem virar cínico…
+- [Ciência e tecnologia: qual a diferença?](https://cienciaparainiciantes.biblioverse.org/ciencia-e-tecnologia.html): Ciência busca entender; tecnologia busca fazer funcionar. As duas se alimentam, mas não são a mesma coisa, e confundi-las gera erros.
+- [A ciência no Brasil](https://cienciaparainiciantes.biblioverse.org/ciencia-no-brasil.html): De Oswaldo Cruz à Embrapa e ao SUS: o que a ciência brasileira já fez, como é financiada e quais são seus desafios.
+- [Como funciona a checagem de fatos](https://cienciaparainiciantes.biblioverse.org/como-funciona-a-checagem.html): Ir à fonte primária, triangular, rastrear a origem de uma imagem e separar o verificável do opinativo: o método das agências de checagem é o método…
+- [Como ler uma notícia de ciência](https://cienciaparainiciantes.biblioverse.org/como-ler-noticia-de-ciencia.html): Um roteiro de perguntas para não cair em manchetes exageradas: quem fez o estudo, em quem, com quantos, comparado a quê e quem pagou.
+- [Revisão por pares e consenso científico](https://cienciaparainiciantes.biblioverse.org/consenso-cientifico.html): Como a comunidade científica filtra erros e chega a acordos, por que o consenso merece peso e quando um cientista isolado tem razão.
+- [Correlação não é causalidade](https://cienciaparainiciantes.biblioverse.org/correlacao-e-causalidade.html): Duas coisas andarem juntas não quer dizer que uma causa a outra. Conheça o terceiro fator, a causalidade reversa e a coincidência.
+- [Crença verdadeira justificada](https://cienciaparainiciantes.biblioverse.org/crenca-verdadeira-justificada.html): Desde Platão, conhecer algo exige três coisas: acreditar, que seja verdade e ter boas razões. Sem justificação, acertar é sorte.
+- [Divulgação científica: por que importa e como fazer bem](https://cienciaparainiciantes.biblioverse.org/divulgacao-cientifica.html): Levar a ciência a quem não é cientista é parte do trabalho científico, não um extra.
+- [É ciência ou não? As áreas de fronteira](https://cienciaparainiciantes.biblioverse.org/e-ciencia-ou-nao.html): História, jornalismo, direito, medicina, engenharia, design, matemática, filosofia: áreas que usam evidência e rigor sem serem, todas, ciência.
+- [Experimentos, grupo controle e placebo](https://cienciaparainiciantes.biblioverse.org/experimentos-e-grupo-controle.html): Para saber se algo funciona, é preciso comparar com quem não recebeu. Grupo controle, sorteio e testes cegos protegem o resultado dos nossos vieses.
+- [Falácias que aparecem em discussões sobre ciência](https://cienciaparainiciantes.biblioverse.org/falacias-e-argumentos.html): Apelo à natureza, à autoridade, à antiguidade, falsa dicotomia e espantalho: os erros de raciocínio mais comuns quando o assunto é ciência.
+- [Os grandes consensos científicos](https://cienciaparainiciantes.biblioverse.org/grandes-consensos-cientificos.html): Evolução, idade do universo, causa humana do aquecimento global, segurança das vacinas, tabaco e câncer: o que a ciência considera estabelecido, e com que base.
+- [Hipótese, teoria e lei](https://cienciaparainiciantes.biblioverse.org/hipotese-teoria-e-lei.html): “É só uma teoria” é um erro de vocabulário. Em ciência, teoria é uma explicação ampla e muito testada, não um palpite.
+- [Ciência para iniciantes](https://cienciaparainiciantes.biblioverse.org/iniciante.html): O que é ciência, seus valores e áreas, o método, a evidência, os consensos, o ceticismo responsável e como reconhecer pseudociência.
+- [Letramento científico no Brasil](https://cienciaparainiciantes.biblioverse.org/letramento-cientifico-no-brasil.html): Letramento científico não é decorar fórmulas: é conseguir ler um gráfico, pesar uma evidência e decidir com base nela.
+- [O mapa das ciências](https://cienciaparainiciantes.biblioverse.org/mapa-das-ciencias.html): Das ciências formais às sociais, passando pela física, pela biologia e pelas áreas aplicadas: o que cada grande área estuda e como as áreas se cruzam.
+- [Níveis de evidência](https://cienciaparainiciantes.biblioverse.org/niveis-de-evidencia.html): Um relato pessoal, um estudo com ratos e uma revisão de cem ensaios clínicos não valem o mesmo. Conheça a pirâmide da evidência.
+- [O método científico](https://cienciaparainiciantes.biblioverse.org/o-metodo-cientifico.html): Observar, perguntar, formular uma hipótese, prever, testar e revisar: o ciclo que transforma palpites em conhecimento, e por que ele é menos linear do que…
+- [O que é ciência?](https://cienciaparainiciantes.biblioverse.org/o-que-e-ciencia.html): Ciência é um jeito de descobrir como o mundo funciona testando ideias contra a realidade, de forma pública e sempre aberta a correção.
+- [O que é pseudociência?](https://cienciaparainiciantes.biblioverse.org/o-que-e-pseudociencia.html): Pseudociência é o que se apresenta como científico sem seguir os métodos da ciência. Conheça os sinais de alerta mais comuns.
+- [Opinião, crença e conhecimento](https://cienciaparainiciantes.biblioverse.org/opiniao-crenca-e-conhecimento.html): Nem toda opinião vale o mesmo. Gosto não se discute, mas afirmações sobre o mundo podem ser verdadeiras ou falsas, e a evidência decide.
+- [Os valores da ciência](https://cienciaparainiciantes.biblioverse.org/os-valores-da-ciencia.html): Honestidade, ceticismo organizado, abertura, universalismo, humildade e rigor: os valores que fazem a ciência funcionar, e o que acontece quando são traídos.
+- [As grandes perguntas em aberto](https://cienciaparainiciantes.biblioverse.org/perguntas-em-aberto.html): Matéria escura, origem da vida, consciência, gravidade quântica, estamos sós? O que a ciência ainda não sabe, e por que admitir isso é uma força.
+- [Como funcionam as pesquisas de opinião](https://cienciaparainiciantes.biblioverse.org/pesquisas-de-opiniao.html): Como mil pessoas podem representar duzentos milhões, o que a margem de erro diz e não diz, e por que pesquisas erram: amostragem, não resposta e o efeito de…
+- [A postura científica](https://cienciaparainiciantes.biblioverse.org/postura-cientifica.html): Pensar como cientista é um hábito: duvidar com método, pedir evidência proporcional à afirmação e estar disposto a mudar de ideia.
+- [Quem faz ciência: diversidade e exclusão](https://cienciaparainiciantes.biblioverse.org/quem-faz-ciencia.html): Mulheres, pessoas negras e cientistas fora dos centros ricos foram excluídos ou esquecidos.
+- [Revisão do nível Iniciante](https://cienciaparainiciantes.biblioverse.org/revisao-iniciante.html): 28 perguntas de aplicação, uma por lição do nível Iniciante, com placar e link de volta para cada lição.
+- [Risco e probabilidade no dia a dia](https://cienciaparainiciantes.biblioverse.org/risco-e-probabilidade.html): Por que temos mais medo de avião do que de carro, o que significa “50% de chance” e como comparar riscos sem se assustar à toa.
+- [Teste do nível Iniciante](https://cienciaparainiciantes.biblioverse.org/teste-iniciante.html): Dez perguntas sorteadas sobre as lições do nível Iniciante de ciência, com a lição a rever em cada resposta.
+- [Uma breve história da ciência](https://cienciaparainiciantes.biblioverse.org/uma-breve-historia-da-ciencia.html): Da astronomia babilônica aos laboratórios de hoje: como o jeito de investigar a natureza foi inventado, perdido, reencontrado e aperfeiçoado.
+
+## Lições do nível Intermediário
+
+- [A Revolução Científica](https://cienciaparainiciantes.biblioverse.org/a-revolucao-cientifica.html): Copérnico, Galileu, Kepler, Bacon, Descartes e Newton: como, entre 1543 e 1687, nasceu o modo moderno de investigar a natureza.
+- [Avaliar políticas públicas com evidências](https://cienciaparainiciantes.biblioverse.org/avaliacao-de-politicas-publicas.html): Como saber se um programa funcionou: linha de base, grupo de comparação, sorteio quando possível e experimentos naturais quando não.
+- [Ciência a serviço do mal](https://cienciaparainiciantes.biblioverse.org/ciencia-a-servico-do-mal.html): Experimentos nazistas, a Unidade 731, a psiquiatria punitiva e as armas biológicas soviéticas, o Grande Salto maoísta, e abusos em democracias: quando a…
+- [Ciência, religião e filosofia](https://cienciaparainiciantes.biblioverse.org/ciencia-religiao-e-filosofia.html): Conflito, independência, diálogo ou integração? As formas de relacionar ciência e religião e o papel da filosofia nas perguntas que a ciência não responde…
+- [Como achar e julgar artigos científicos](https://cienciaparainiciantes.biblioverse.org/como-achar-e-julgar-artigos.html): Bases de dados, revistas predatórias, Qualis, tipos de revisão, p-valor e o que um artigo em animais ou um Nobel não provam: um guia prático para não se…
+- [Como justificar uma crença](https://cienciaparainiciantes.biblioverse.org/como-justificar-uma-crenca.html): Fundacionalismo, coerentismo e confiabilismo: três respostas para o que dá apoio às nossas crenças, e o desafio do cético.
+- [O critério da demarcação](https://cienciaparainiciantes.biblioverse.org/criterio-da-demarcacao.html): Onde termina a ciência e começa a pseudociência? Da verificabilidade a Popper, Kuhn e Laudan, até os critérios múltiplos usados hoje.
+- [Empirismo e racionalismo](https://cienciaparainiciantes.biblioverse.org/empirismo-e-racionalismo.html): O conhecimento vem dos sentidos ou da razão? A disputa entre Locke e Hume de um lado, Descartes e Leibniz do outro, e a síntese de Kant.
+- [Estatística para entender ciência](https://cienciaparainiciantes.biblioverse.org/estatistica-para-entender-ciencia.html): Amostra, média, margem de erro, p-valor, significância e tamanho de efeito: o mínimo para ler um estudo sem ser enganado.
+- [Ética na pesquisa](https://cienciaparainiciantes.biblioverse.org/etica-na-pesquisa.html): Do caso Tuskegee ao consentimento informado e aos comitês de ética: por que a ciência precisa de limites morais, e para quem esses limites valem.
+- [Experimentos naturais e causalidade sem laboratório](https://cienciaparainiciantes.biblioverse.org/experimentos-naturais.html): Quando não dá para sortear pessoas, a ciência procura situações em que o acaso fez o sorteio: experimentos naturais, diferença em diferenças e regressão…
+- [A ciência e quem está fora da média](https://cienciaparainiciantes.biblioverse.org/fora-da-media.html): Estudos falam de médias; pessoas são indivíduos. O que a ciência pode e não pode dizer sobre quem foge do padrão, do remédio que não funciona em você à…
+- [Fraudes científicas famosas](https://cienciaparainiciantes.biblioverse.org/fraudes-cientificas.html): O Homem de Piltdown, a clonagem falsa de Hwang, os supercondutores inventados de Schön, Wakefield e Theranos: como fraudes acontecem e como a ciência as…
+- [Genética, ambiente e comportamento](https://cienciaparainiciantes.biblioverse.org/genetica-ambiente-e-comportamento.html): O que “herdável” quer dizer (e o que não quer), estudos com gêmeos e adotados, os genes de efeito minúsculo e por que “gene da inteligência” e “gene do…
+- [Ciência intermediária](https://cienciaparainiciantes.biblioverse.org/intermediario.html): Epistemologia, indução, positivismo, Popper, Kuhn, probabilidade, ética na pesquisa, ciência usada para o mal, má ciência e fraudes.
+- [O que é probabilidade?](https://cienciaparainiciantes.biblioverse.org/interpretacoes-da-probabilidade.html): Frequência, grau de crença ou propensão? As interpretações da probabilidade e por que estatísticos discutem há um século.
+- [Kuhn e os paradigmas](https://cienciaparainiciantes.biblioverse.org/kuhn-e-os-paradigmas.html): Ciência normal, anomalias, crise e revolução: como Thomas Kuhn mudou a forma de ver a história da ciência, e o que ele não disse.
+- [Lakatos e Feyerabend](https://cienciaparainiciantes.biblioverse.org/lakatos-e-feyerabend.html): Programas de pesquisa progressivos e degenerativos, e o “vale tudo” de Feyerabend: dois amigos que discordavam sobre o método da ciência.
+- [Má ciência: entre o erro honesto e a fraude](https://cienciaparainiciantes.biblioverse.org/ma-ciencia.html): Escolher só os dados que convêm, mudar a hipótese depois do resultado, não abandonar uma ideia refutada, citar só quem concorda: as práticas que estragam a…
+- [Modelos e simulações](https://cienciaparainiciantes.biblioverse.org/modelos-e-simulacoes.html): Mapas, maquetes, equações e simulações de computador: por que a ciência usa representações simplificadas e como avaliar se são confiáveis.
+- [O problema da indução](https://cienciaparainiciantes.biblioverse.org/o-problema-da-inducao.html): Por que esperar que o Sol nasça amanhã? Hume mostrou que não há justificação lógica para generalizar do passado para o futuro. A ciência vive com isso.
+- [O problema de Gettier](https://cienciaparainiciantes.biblioverse.org/o-problema-de-gettier.html): Em três páginas, Edmund Gettier mostrou que crença verdadeira e justificada pode não ser conhecimento. As tentativas de consertar a definição.
+- [O que é epistemologia?](https://cienciaparainiciantes.biblioverse.org/o-que-e-epistemologia.html): Epistemologia é a área da filosofia que estuda o conhecimento: o que é saber, de onde vem, como se justifica e quais são seus limites.
+- [Popper e a falseabilidade](https://cienciaparainiciantes.biblioverse.org/popper-e-a-falseabilidade.html): Para Karl Popper, uma teoria é científica se pode ser refutada. A ciência avança por conjecturas ousadas e tentativas de derrubá-las.
+- [Positivismo: de Comte ao Círculo de Viena](https://cienciaparainiciantes.biblioverse.org/positivismo.html): O positivismo de Comte, que marcou a bandeira do Brasil, e o positivismo lógico do Círculo de Viena: o critério da verificação e por que ele ruiu.
+- [Prática Baseada em Evidências (PBE)](https://cienciaparainiciantes.biblioverse.org/pratica-baseada-em-evidencias.html): Medicina, educação e políticas públicas baseadas em evidências: integrar a melhor pesquisa, a experiência profissional e os valores de quem é afetado.
+- [A psicologia como ciência](https://cienciaparainiciantes.biblioverse.org/psicologia-como-ciencia.html): Milgram, Zimbardo, Kohlberg e os experimentos que moldaram a psicologia moral: o que provaram, o que não resistiu à replicação e o problema de estudar quase…
+- [Revisão do nível Intermediário](https://cienciaparainiciantes.biblioverse.org/revisao-intermediario.html): 28 perguntas de aplicação, uma por lição do nível Intermediário, com placar e link de volta para cada lição.
+- [Teste do nível Intermediário](https://cienciaparainiciantes.biblioverse.org/teste-intermediario.html): Dez perguntas sorteadas sobre as lições do nível Intermediário de ciência, com a lição a rever em cada resposta.
+- [Ciências formais, naturais e humanas](https://cienciaparainiciantes.biblioverse.org/tipos-de-ciencia.html): Matemática prova, física mede, sociologia interpreta: como cada tipo de ciência produz conhecimento e o debate sobre as ciências humanas.
+- [Vieses cognitivos e o método](https://cienciaparainiciantes.biblioverse.org/vieses-e-metodo.html): Viés de confirmação, raciocínio motivado e ver padrões no acaso: por que o método científico existe para proteger cientistas de si mesmos.
+
+## Lições do nível Avançado
+
+- [Ciência avançada](https://cienciaparainiciantes.biblioverse.org/avancado.html): Realismo, leis da natureza, física quântica, teorias unificadas, o incognoscível, bayesianismo, valores e negacionismo.
+- [Bayesianismo: atualizar crenças com evidências](https://cienciaparainiciantes.biblioverse.org/bayesianismo.html): Graus de crença, probabilidade a priori e a regra de Bayes: como a evidência deve mudar o que pensamos, e por que um exame com 99% de acerto pode enganar.
+- [A carga teórica da observação](https://cienciaparainiciantes.biblioverse.org/carga-teorica-da-observacao.html): Observar não é só abrir os olhos: o que vemos depende do que sabemos. Hanson, Kuhn e o problema de usar observações para testar teorias.
+- [A ciência da consciência](https://cienciaparainiciantes.biblioverse.org/ciencia-da-consciencia.html): O problema difícil, as teorias científicas da consciência e o que a ciência diz sobre a consciência dos outros animais.
+- [Cientificismo e os limites da ciência](https://cienciaparainiciantes.biblioverse.org/cientificismo-e-limites-da-ciencia.html): A ciência é o melhor método para conhecer o mundo natural, mas responde a tudo?
+- [Confiança em especialistas e epistemologia social](https://cienciaparainiciantes.biblioverse.org/confianca-e-especialistas.html): Quase tudo o que sabemos vem do testemunho. Como leigos podem avaliar especialistas, quando desconfiar e o que fazer quando especialistas discordam.
+- [A crise de replicação](https://cienciaparainiciantes.biblioverse.org/crise-de-replicacao.html): Por que tantos resultados famosos não se repetem, o que são p-hacking e viés de publicação, e como a ciência aberta tenta corrigir o problema.
+- [O que é uma explicação científica?](https://cienciaparainiciantes.biblioverse.org/explicacao-cientifica.html): Do modelo dedutivo-nomológico de Hempel às explicações causais, mecanicistas e por unificação: o que torna uma resposta a um “por quê” científica.
+- [Filosofia analítica e ciência](https://cienciaparainiciantes.biblioverse.org/filosofia-analitica.html): Clareza, lógica e análise de conceitos: a tradição de Frege, Russell e Wittgenstein, sua relação com a ciência e a divisão com a filosofia continental.
+- [Filosofia da biologia](https://cienciaparainiciantes.biblioverse.org/filosofia-da-biologia.html): O que é uma espécie? O que é uma função? A seleção natural age sobre genes, indivíduos ou grupos? As perguntas filosóficas que a biologia levanta.
+- [As interpretações da mecânica quântica](https://cienciaparainiciantes.biblioverse.org/interpretacoes-da-mecanica-quantica.html): A teoria mais precisa da física e ninguém concorda sobre o que ela diz da realidade: Copenhague, muitos mundos, Bohm, colapso e QBismo.
+- [O que são leis da natureza?](https://cienciaparainiciantes.biblioverse.org/leis-da-natureza.html): Regularidades, necessidades ou só bons resumos? Humeanos, necessitaristas e quem acha que as leis “mentem”.
+- [Naturalismo e epistemologia naturalizada](https://cienciaparainiciantes.biblioverse.org/naturalismo-epistemologico.html): Para Quine, a epistemologia deve ser parte da ciência. O que isso muda, o problema da circularidade e a influência da ciência cognitiva.
+- [Negacionismo e desinformação](https://cienciaparainiciantes.biblioverse.org/negacionismo-e-desinformacao.html): As técnicas do negacionismo (FLICC), a fabricação da dúvida pelos mercadores da dúvida e o que funciona para responder: pré-bunking e reconstruir confiança.
+- [O incognoscível: há coisas que nunca poderemos saber?](https://cienciaparainiciantes.biblioverse.org/o-incognoscivel.html): Do “ignorabimus” ao “precisamos saber e saberemos”, de Gödel e Turing ao horizonte cósmico e ao mistério da consciência: os limites do conhecimento, os…
+- [Postura científica, postura ética e postura política](https://cienciaparainiciantes.biblioverse.org/postura-cientifica-etica-e-politica.html): A mesma disposição de pedir evidência, buscar coerência e revisar crenças vale para fatos, para valores e para decisões coletivas.
+- [Realismo e antirrealismo científico](https://cienciaparainiciantes.biblioverse.org/realismo-e-antirrealismo.html): Elétrons existem ou são só ferramentas de cálculo? O argumento do milagre, a metaindução pessimista e as posições intermediárias.
+- [Reducionismo e emergência](https://cienciaparainiciantes.biblioverse.org/reducionismo-e-emergencia.html): A biologia é só química, e a química é só física? Ou há propriedades que surgem em níveis mais altos e não se explicam pelas partes?
+- [Revisão do nível Avançado](https://cienciaparainiciantes.biblioverse.org/revisao-avancado.html): 21 perguntas de aplicação, uma por lição do nível Avançado, com placar e link de volta para cada lição.
+- [Sociologia da ciência e construtivismo](https://cienciaparainiciantes.biblioverse.org/sociologia-do-conhecimento-cientifico.html): Normas de Merton, o programa forte, a teoria ator-rede de Latour e as “guerras da ciência”: o que a ciência tem de social, e onde o construtivismo exagera.
+- [Subdeterminação e a tese Duhem-Quine](https://cienciaparainiciantes.biblioverse.org/subdeterminacao-e-duhem-quine.html): Nenhuma hipótese é testada sozinha, e os mesmos dados podem caber em teorias diferentes. O que isso significa para a refutação e a escolha de teorias.
+- [Teorias unificadas e a busca por elas](https://cienciaparainiciantes.biblioverse.org/teorias-unificadas.html): De Newton a Maxwell, do Modelo Padrão à teoria de tudo: as grandes unificações da física, o que falta unir e se a ciência deve buscar uma teoria final.
+- [Teste do nível Avançado](https://cienciaparainiciantes.biblioverse.org/teste-avancado.html): Dez perguntas sorteadas sobre as lições do nível Avançado de ciência, com a lição a rever em cada resposta.
+- [Valores na ciência](https://cienciaparainiciantes.biblioverse.org/valores-na-ciencia.html): A ciência é neutra? O ideal livre de valores, o argumento do risco indutivo e as epistemologias feministas: onde os valores entram e onde não deveriam entrar.
+
+## Correntes
+
+- [Anarquismo epistemológico](https://cienciaparainiciantes.biblioverse.org/correntes/anarquismo-epistemologico.html): Nenhuma regra metodológica universal sobrevive à história da ciência. Feyerabend defendia o pluralismo de métodos.
+- [Bayesianismo](https://cienciaparainiciantes.biblioverse.org/correntes/bayesianismo.html): Crenças vêm em graus de probabilidade, e a evidência deve atualizá-los pela regra de Bayes.
+- [Ceticismo filosófico](https://cienciaparainiciantes.biblioverse.org/correntes/ceticismo-filosofico.html): Desafia a possibilidade de conhecer: podemos estar sonhando, enganados ou sem justificação última.
+- [Cientificismo](https://cienciaparainiciantes.biblioverse.org/correntes/cientificismo.html): Só a ciência produz conhecimento genuíno, e tudo o que vale saber pode, em princípio, ser respondido por ela.
+- [Coerentismo](https://cienciaparainiciantes.biblioverse.org/correntes/coerentismo.html): Uma crença está justificada quando se encaixa num sistema coerente de crenças que se apoiam mutuamente.
+- [Confiabilismo](https://cienciaparainiciantes.biblioverse.org/correntes/confiabilismo.html): Uma crença está justificada se foi produzida por um processo que tende a gerar crenças verdadeiras.
+- [Contextualismo epistêmico](https://cienciaparainiciantes.biblioverse.org/correntes/contextualismo-epistemico.html): O padrão para dizer “eu sei” muda com o contexto: o que basta num bar não basta num tribunal ou num laboratório.
+- [Convencionalismo](https://cienciaparainiciantes.biblioverse.org/correntes/convencionalismo.html): Algumas partes das teorias científicas, como a escolha da geometria, são convenções escolhidas por simplicidade.
+- [Emergentismo](https://cienciaparainiciantes.biblioverse.org/correntes/emergentismo.html): Sistemas complexos têm propriedades novas, que não se reduzem às das partes, e cada nível da natureza pede leis próprias.
+- [Empirismo construtivo](https://cienciaparainiciantes.biblioverse.org/correntes/empirismo-construtivo.html): A ciência busca teorias empiricamente adequadas; aceitar uma teoria não exige crer no que ela diz sobre o inobservável.
+- [Empirismo contextual](https://cienciaparainiciantes.biblioverse.org/correntes/empirismo-contextual.html): A objetividade é uma conquista coletiva: vem de comunidades diversas que se criticam com padrões compartilhados.
+- [Empirismo](https://cienciaparainiciantes.biblioverse.org/correntes/empirismo.html): Todo conhecimento sobre o mundo começa na experiência dos sentidos. A mente não traz ideias prontas.
+- [Epistemologia das virtudes](https://cienciaparainiciantes.biblioverse.org/correntes/epistemologia-das-virtudes.html): O conhecimento é o acerto que vem das virtudes intelectuais de quem conhece, como cuidado, honestidade e abertura.
+- [Epistemologia histórica](https://cienciaparainiciantes.biblioverse.org/correntes/epistemologia-historica.html): Conceitos científicos têm história. O conhecimento avança por rupturas com o senso comum e com teorias anteriores.
+- [Evidencialismo](https://cienciaparainiciantes.biblioverse.org/correntes/evidencialismo.html): Uma crença está justificada na medida em que se ajusta à evidência que a pessoa tem.
+- [Falsificacionismo](https://cienciaparainiciantes.biblioverse.org/correntes/falsificacionismo.html): Uma teoria é científica se pode ser refutada. A ciência avança por conjecturas ousadas e tentativas de derrubá-las.
+- [Frequentismo estatístico](https://cienciaparainiciantes.biblioverse.org/correntes/frequentismo.html): Probabilidade é frequência em longas séries de repetições; a inferência científica controla as taxas de erro dos procedimentos.
+- [Fundacionalismo](https://cienciaparainiciantes.biblioverse.org/correntes/fundacionalismo.html): Crenças justificadas formam um edifício: as básicas se sustentam sozinhas e apoiam as demais.
+- [Fundherentismo](https://cienciaparainiciantes.biblioverse.org/correntes/fundherentismo.html): A justificação é como palavras cruzadas: cada resposta é apoiada pela pista da experiência e pelo encaixe com as outras.
+- [Hipotético-dedutivismo](https://cienciaparainiciantes.biblioverse.org/correntes/hipotetico-dedutivismo.html): A ciência propõe hipóteses, deduz delas consequências observáveis e as confronta com a experiência.
+- [Idealismo transcendental](https://cienciaparainiciantes.biblioverse.org/correntes/idealismo-transcendental.html): A síntese de Kant: o conhecimento começa com a experiência, mas a mente organiza o que recebe com estruturas próprias.
+- [Indutivismo](https://cienciaparainiciantes.biblioverse.org/correntes/indutivismo.html): A ciência parte de observações cuidadosas e generaliza delas leis e teorias.
+- [Inferência à melhor explicação](https://cienciaparainiciantes.biblioverse.org/correntes/inferencia-a-melhor-explicacao.html): Aceitamos a hipótese que, se verdadeira, melhor explicaria os dados: é assim que raciocinam detetives, médicos e cientistas.
+- [Infinitismo](https://cienciaparainiciantes.biblioverse.org/correntes/infinitismo.html): A cadeia de razões não precisa terminar nem dar voltas: uma crença se justifica por uma série de razões que pode sempre continuar.
+- [Instrumentalismo](https://cienciaparainiciantes.biblioverse.org/correntes/instrumentalismo.html): Teorias são ferramentas para prever e organizar observações; perguntar se são verdadeiras não faz sentido.
+- [Naturalismo epistemológico](https://cienciaparainiciantes.biblioverse.org/correntes/naturalismo-epistemologico.html): A epistemologia deve ser contínua com a ciência e usar seus resultados para estudar como conhecemos.
+- [Operacionalismo](https://cienciaparainiciantes.biblioverse.org/correntes/operacionalismo.html): O significado de um conceito científico é o conjunto de operações usadas para medi-lo.
+- [Teoria dos paradigmas](https://cienciaparainiciantes.biblioverse.org/correntes/paradigmas.html): A ciência alterna ciência normal, guiada por um paradigma, com crises e revoluções que trocam de paradigma.
+- [Pluralismo científico](https://cienciaparainiciantes.biblioverse.org/correntes/pluralismo-cientifico.html): Não há uma única descrição correta do mundo: diferentes modelos e sistemas de prática podem ser válidos para propósitos diferentes.
+- [Positivismo lógico](https://cienciaparainiciantes.biblioverse.org/correntes/positivismo-logico.html): Só tem significado o que é verificável pela experiência ou verdadeiro por definição. A metafísica é sem sentido.
+- [Positivismo de Comte](https://cienciaparainiciantes.biblioverse.org/correntes/positivismo.html): O conhecimento passa do teológico ao metafísico e ao positivo, baseado em leis observáveis. Marcou a bandeira do Brasil.
+- [Pragmatismo](https://cienciaparainiciantes.biblioverse.org/correntes/pragmatismo.html): O sentido e a verdade de uma ideia estão nas suas consequências práticas. A investigação é falível e se corrige.
+- [Programa forte](https://cienciaparainiciantes.biblioverse.org/correntes/programa-forte.html): Crenças científicas verdadeiras e falsas devem ser explicadas pelo mesmo tipo de causas sociais.
+- [Programas de pesquisa](https://cienciaparainiciantes.biblioverse.org/correntes/programas-de-pesquisa.html): Ciência se avalia por programas: um núcleo rígido protegido por hipóteses auxiliares, que é bom se prevê fatos novos.
+- [Racionalismo](https://cienciaparainiciantes.biblioverse.org/correntes/racionalismo.html): A razão pode descobrir verdades sobre o mundo independentemente da experiência. A matemática é o modelo.
+- [Realismo científico](https://cienciaparainiciantes.biblioverse.org/correntes/realismo-cientifico.html): Nossas melhores teorias são aproximadamente verdadeiras, e as entidades que postulam, como elétrons e genes, existem.
+- [Realismo de entidades](https://cienciaparainiciantes.biblioverse.org/correntes/realismo-de-entidades.html): Acreditamos nas entidades que conseguimos manipular para produzir efeitos, mesmo sem acreditar em todas as teorias sobre elas.
+- [Realismo estrutural](https://cienciaparainiciantes.biblioverse.org/correntes/realismo-estrutural.html): O que sobrevive às revoluções científicas é a estrutura matemática das teorias. Devemos ser realistas sobre ela.
+- [Relativismo epistêmico](https://cienciaparainiciantes.biblioverse.org/correntes/relativismo-epistemico.html): Não há padrão neutro para avaliar sistemas de crença: o que conta como evidência depende de cada cultura ou comunidade.
+- [Teoria ator-rede](https://cienciaparainiciantes.biblioverse.org/correntes/teoria-ator-rede.html): Fatos científicos se estabilizam em redes de humanos e não humanos: cientistas, instrumentos, micróbios, verbas e textos.
+- [Teoria do ponto de vista](https://cienciaparainiciantes.biblioverse.org/correntes/teoria-do-ponto-de-vista.html): Grupos marginalizados podem enxergar vieses invisíveis aos dominantes. A objetividade forte examina também quem pesquisa.
+- [Tradições de pesquisa](https://cienciaparainiciantes.biblioverse.org/correntes/tradicoes-de-pesquisa.html): A ciência é uma atividade de resolver problemas; uma tradição é melhor quando resolve mais problemas importantes.
+
+## Debates
+
+- [O conhecimento científico deve ser gratuito?](https://cienciaparainiciantes.biblioverse.org/debates/ciencia-aberta.html): Pesquisas pagas com dinheiro público ficam atrás de assinaturas caras. A ciência aberta quer mudar isso.
+- [Dá para confiar na ciência da nutrição?](https://cienciaparainiciantes.biblioverse.org/debates/ciencia-da-nutricao.html): Ovo faz mal, depois faz bem; gordura vilã, depois açúcar vilão. A nutrição é ciência fraca ou só difícil?
+- [A ciência é neutra?](https://cienciaparainiciantes.biblioverse.org/debates/ciencia-e-neutra.html): Entre “a ciência é pura objetividade” e “a ciência é só ideologia”, onde está a verdade?
+- [Existe conhecimento que não é científico?](https://cienciaparainiciantes.biblioverse.org/debates/conhecimento-nao-cientifico.html): Matemática, saber fazer, testemunho, história, autoconhecimento e ética: tipos de conhecimento que não saem de um laboratório.
+- [Saberes tradicionais e indígenas são ciência?](https://cienciaparainiciantes.biblioverse.org/debates/conhecimento-tradicional.html): Povos tradicionais acumularam conhecimento empírico valioso. Como ele se relaciona com a ciência moderna?
+- [Plataformas devem remover desinformação científica?](https://cienciaparainiciantes.biblioverse.org/debates/desinformacao-nas-redes.html): Remover posts falsos sobre vacinas protege a saúde pública ou ameaça a liberdade de expressão e o próprio debate científico?
+- [A economia é ciência?](https://cienciaparainiciantes.biblioverse.org/debates/economia-e-ciencia.html): Economistas erram previsões e discordam entre si. Isso a torna menos científica, ou só mais difícil?
+- [A energia nuclear é uma boa opção?](https://cienciaparainiciantes.biblioverse.org/debates/energia-nuclear.html): Causa pouquíssimas mortes por energia gerada e emite pouco carbono, mas gera lixo radioativo, custa caro e assusta.
+- [Escolas devem “ensinar os dois lados” da evolução?](https://cienciaparainiciantes.biblioverse.org/debates/ensinar-os-dois-lados.html): Propostas de ensinar criacionismo ou design inteligente ao lado da evolução nas aulas de ciências.
+- [É hora de abandonar a “significância estatística”?](https://cienciaparainiciantes.biblioverse.org/debates/fim-da-significancia.html): Centenas de cientistas pediram o fim do limiar p < 0,05. Outros acham que isso abriria espaço para ainda mais resultados frágeis.
+- [Pesquisa financiada pela indústria merece confiança?](https://cienciaparainiciantes.biblioverse.org/debates/financiamento-privado.html): Boa parte da pesquisa em saúde, alimentação e energia é paga por quem vende o produto.
+- [Pesquisas que tornam vírus mais perigosos devem ser feitas?](https://cienciaparainiciantes.biblioverse.org/debates/ganho-de-funcao.html): Pesquisas de “ganho de função” podem ajudar a prevenir pandemias, ou causar uma.
+- [A inteligência artificial pode fazer ciência?](https://cienciaparainiciantes.biblioverse.org/debates/ia-na-ciencia.html): Do AlphaFold aos modelos de linguagem que escrevem artigos: a IA vai acelerar a ciência ou encher a literatura de erros?
+- [Meditação, ioga e mindfulness: ciência ou pseudociência?](https://cienciaparainiciantes.biblioverse.org/debates/meditacao-yoga-mindfulness.html): Práticas milenares que viraram programas clínicos e produto de bem-estar. A evidência real é modesta e específica; as promessas, muitas vezes, não.
+- [Modificar genes e seres: para o mal e para o bem](https://cienciaparainiciantes.biblioverse.org/debates/modificar-genes-e-seres.html): Da eugenia nazista e das esterilizações forçadas à seleção artificial que faz frangos sofrerem, e do outro lado as curas por CRISPR e as propostas de David…
+- [Práticas integrativas sem evidência devem estar no SUS?](https://cienciaparainiciantes.biblioverse.org/debates/pics-no-sus.html): O SUS oferece 29 práticas integrativas, de ioga a constelação familiar. Algumas têm evidência; outras, nenhuma.
+- [A pirâmide de evidências é um grande erro?](https://cienciaparainiciantes.biblioverse.org/debates/piramide-de-evidencias.html): A figura que ordena relato de caso, coorte, ensaio e revisão sistemática virou dogma de sala de aula.
+- [Pseudociências devem ser proibidas?](https://cienciaparainiciantes.biblioverse.org/debates/proibir-pseudociencias.html): Entre proteger as pessoas de práticas que fazem mal e respeitar a liberdade de acreditar, oferecer e escolher.
+- [A psicanálise é ciência?](https://cienciaparainiciantes.biblioverse.org/debates/psicanalise-e-ciencia.html): O alvo favorito de Popper divide filósofos e clínicos: a teoria freudiana é testável? E as terapias psicodinâmicas funcionam?
+- [Cientistas são responsáveis pelo uso de suas descobertas?](https://cienciaparainiciantes.biblioverse.org/debates/responsabilidade-dos-cientistas.html): Da bomba atômica à edição genética: o cientista só descobre, ou responde também pelo que fazem com o que ele descobre?
+- [“Seguir a ciência” na política: até onde?](https://cienciaparainiciantes.biblioverse.org/debates/siga-a-ciencia.html): Na pandemia e no clima, “siga a ciência” virou slogan. Mas a ciência diz o que fazer, ou só o que acontece se fizermos?
+- [Teorias sem teste possível, como a das cordas, são ciência?](https://cienciaparainiciantes.biblioverse.org/debates/teoria-das-cordas.html): Teorias da física fundamental que talvez nunca possam ser testadas reacenderam o debate sobre a falseabilidade.
+- [Testes em animais são necessários?](https://cienciaparainiciantes.biblioverse.org/debates/testes-em-animais.html): Milhões de animais sencientes são usados em pesquisa todo ano. Quanto disso é necessário, e o que a ciência diz sobre as alternativas?
+- [Alimentos transgênicos são seguros para comer?](https://cienciaparainiciantes.biblioverse.org/debates/transgenicos.html): Um dos maiores descompassos entre a opinião pública e o consenso científico. A segurança alimentar e as questões econômicas são debates diferentes.
+- [A vacinação deve ser obrigatória?](https://cienciaparainiciantes.biblioverse.org/debates/vacinacao-obrigatoria.html): Vacinas são seguras e eficazes; a pergunta é sobre liberdade individual, proteção coletiva e o que o Estado pode exigir.
+
+## Ferramentas
+
+- [Ciência ou pseudociência?](https://cienciaparainiciantes.biblioverse.org/ferramentas/ciencia-ou-pseudociencia.html): Doze afirmações. Decida se cada uma segue o método científico, e veja por quê.
+- [Consenso, em aberto ou refutado?](https://cienciaparainiciantes.biblioverse.org/ferramentas/consenso-ou-em-aberto.html): Doze afirmações. Diga se a ciência considera cada uma estabelecida, ainda em aberto ou já refutada.
+- [Correlação ou causa?](https://cienciaparainiciantes.biblioverse.org/ferramentas/correlacao-ou-causa.html): Dez manchetes do tipo “quem faz X tem Y”. Ache a explicação mais provável.
+- [Detector de pseudociência](https://cienciaparainiciantes.biblioverse.org/ferramentas/detector-de-pseudociencia.html): Marque os sinais de alerta de uma prática ou afirmação e veja o resultado.
+- [Qual o nível da evidência?](https://cienciaparainiciantes.biblioverse.org/ferramentas/nivel-de-evidencia.html): Dez estudos descritos em uma frase. Diga em que degrau da pirâmide cada um está.
+- [Preferência, crença ou conhecimento?](https://cienciaparainiciantes.biblioverse.org/ferramentas/opiniao-crenca-ou-conhecimento.html): Doze frases para separar gosto, crença e conhecimento justificado. Ferramenta interativa e gratuita, sem cadastro.
+- [Que corrente é essa?](https://cienciaparainiciantes.biblioverse.org/ferramentas/que-corrente-e-essa.html): Doze frases, seis correntes. Reconheça o ponto focal de cada argumento.
+- [Quem disse?](https://cienciaparainiciantes.biblioverse.org/ferramentas/quem-disse.html): Doze ideias, doze pensadores. Ligue cada tese a quem a defendeu. Ferramenta interativa e gratuita, sem cadastro.
+
+## Pensadores
+
+- [Alan Turing](https://cienciaparainiciantes.biblioverse.org/pensadores/alan-turing.html): Matemático que fundou a ciência da computação e provou que há problemas que nenhum computador resolve.
+- [Archie Cochrane](https://cienciaparainiciantes.biblioverse.org/pensadores/archie-cochrane.html): Epidemiologista que cobrou da medicina a organização de suas evidências e inspirou a Colaboração Cochrane.
+- [Aristóteles](https://cienciaparainiciantes.biblioverse.org/pensadores/aristoteles.html): Filósofo grego que sistematizou a lógica e fez a primeira grande ciência empírica da natureza.
+- [Atul Gawande](https://cienciaparainiciantes.biblioverse.org/pensadores/atul-gawande.html): Cirurgião e escritor que levou a prática baseada em evidências e as listas de verificação ao centro do debate médico.
+- [Gaston Bachelard](https://cienciaparainiciantes.biblioverse.org/pensadores/bachelard.html): Filósofo francês das rupturas e dos obstáculos epistemológicos. Quem foi, o que defendeu e o que dizem os críticos.
+- [Ben Goldacre](https://cienciaparainiciantes.biblioverse.org/pensadores/ben-goldacre.html): Médico e epidemiologista, autor de Ciência Picareta e crítico da má ciência na mídia e na indústria.
+- [Bill Nye](https://cienciaparainiciantes.biblioverse.org/pensadores/bill-nye.html): Engenheiro e apresentador de TV que ensinou ciência a crianças nos anos 1990 e defende a ciência do clima.
+- [David Bloor](https://cienciaparainiciantes.biblioverse.org/pensadores/bloor.html): Sociólogo britânico, fundador do programa forte da sociologia do conhecimento científico.
+- [Brian Cox](https://cienciaparainiciantes.biblioverse.org/pensadores/brian-cox.html): Físico de partículas e apresentador da BBC, uma das caras da divulgação científica britânica.
+- [Percy Bridgman](https://cienciaparainiciantes.biblioverse.org/pensadores/bridgman.html): Físico, Nobel de 1946, que propôs o operacionalismo. Quem foi, o que defendeu e o que dizem os críticos.
+- [Mario Bunge](https://cienciaparainiciantes.biblioverse.org/pensadores/bunge.html): Físico e filósofo argentino, crítico enérgico das pseudociências. Quem foi, o que defendeu e o que dizem os críticos.
+- [Carlos Chagas](https://cienciaparainiciantes.biblioverse.org/pensadores/carlos-chagas.html): Médico que descreveu sozinho uma doença inteira: a doença de Chagas. Quem foi, o que defendeu e o que dizem os críticos.
+- [Rudolf Carnap](https://cienciaparainiciantes.biblioverse.org/pensadores/carnap.html): Principal lógico do Círculo de Viena, que tentou reconstruir o conhecimento com lógica e experiência.
+- [Nancy Cartwright](https://cienciaparainiciantes.biblioverse.org/pensadores/cartwright.html): Filósofa da causalidade, para quem as leis da física “mentem” e as causas são reais.
+- [Auguste Comte](https://cienciaparainiciantes.biblioverse.org/pensadores/comte.html): Fundador do positivismo e da sociologia, cuja doutrina inspirou o lema da bandeira brasileira.
+- [Daniel Dennett](https://cienciaparainiciantes.biblioverse.org/pensadores/daniel-dennett.html): Filósofo naturalista da mente e da evolução, crítico do problema difícil e da religião.
+- [Charles Darwin](https://cienciaparainiciantes.biblioverse.org/pensadores/darwin.html): Naturalista inglês que explicou a evolução das espécies por seleção natural.
+- [David Attenborough](https://cienciaparainiciantes.biblioverse.org/pensadores/david-attenborough.html): Naturalista e apresentador cujos documentários formaram a visão de natureza de várias gerações.
+- [David Chalmers](https://cienciaparainiciantes.biblioverse.org/pensadores/david-chalmers.html): Filósofo da mente que formulou o problema difícil da consciência. Quem foi, o que defendeu e o que dizem os críticos.
+- [René Descartes](https://cienciaparainiciantes.biblioverse.org/pensadores/descartes.html): Filósofo e matemático francês, pai do racionalismo moderno e da geometria analítica.
+- [John Dewey](https://cienciaparainiciantes.biblioverse.org/pensadores/dewey.html): Filósofo e educador americano que via a investigação científica como modelo de inteligência e democracia.
+- [Pierre Duhem](https://cienciaparainiciantes.biblioverse.org/pensadores/duhem.html): Físico e historiador francês que mostrou que hipóteses nunca são testadas isoladamente.
+- [Albert Einstein](https://cienciaparainiciantes.biblioverse.org/pensadores/einstein.html): Físico da relatividade, cujas previsões arriscadas inspiraram a filosofia de Popper.
+- [Ernst Mayr](https://cienciaparainiciantes.biblioverse.org/pensadores/ernst-mayr.html): Biólogo evolutivo que formulou o conceito biológico de espécie e defendeu a autonomia da biologia.
+- [Paul Feyerabend](https://cienciaparainiciantes.biblioverse.org/pensadores/feyerabend.html): Filósofo austríaco que atacou as metodologias rígidas e defendeu o pluralismo.
+- [Richard Feynman](https://cienciaparainiciantes.biblioverse.org/pensadores/feynman.html): Físico americano, Nobel de 1965, célebre pelas aulas e pela defesa da honestidade científica.
+- [Ludwik Fleck](https://cienciaparainiciantes.biblioverse.org/pensadores/fleck.html): Médico e microbiologista polonês que antecipou Kuhn com os “estilos de pensamento”.
+- [Florence Nightingale](https://cienciaparainiciantes.biblioverse.org/pensadores/florence-nightingale.html): Enfermeira e estatística que usou gráficos para mostrar que soldados morriam mais de infecções do que de ferimentos.
+- [Francis Bacon](https://cienciaparainiciantes.biblioverse.org/pensadores/francis-bacon.html): Filósofo e político inglês, profeta do método experimental e do saber como poder.
+- [Frans de Waal](https://cienciaparainiciantes.biblioverse.org/pensadores/frans-de-waal.html): Primatólogo que mostrou empatia, cooperação e senso de justiça em outros animais.
+- [Fritz Haber](https://cienciaparainiciantes.biblioverse.org/pensadores/fritz-haber.html): Químico cuja síntese da amônia alimenta bilhões de pessoas, e que comandou o uso de gás venenoso na Primeira Guerra.
+- [Galileu Galilei](https://cienciaparainiciantes.biblioverse.org/pensadores/galileu.html): Físico e astrônomo italiano, símbolo da ciência experimental e matemática.
+- [Edmund Gettier](https://cienciaparainiciantes.biblioverse.org/pensadores/gettier.html): Filósofo americano que, com um artigo de três páginas, abalou a definição clássica de conhecimento.
+- [Alvin Goldman](https://cienciaparainiciantes.biblioverse.org/pensadores/goldman.html): Epistemólogo americano do confiabilismo e da epistemologia social. Quem foi, o que defendeu e o que dizem os críticos.
+- [Susan Haack](https://cienciaparainiciantes.biblioverse.org/pensadores/haack.html): Filósofa britânica do fundherentismo e defensora da ciência contra cientificistas e relativistas.
+- [Ian Hacking](https://cienciaparainiciantes.biblioverse.org/pensadores/hacking.html): Filósofo canadense do experimento, da probabilidade e da construção social.
+- [Hans Rosling](https://cienciaparainiciantes.biblioverse.org/pensadores/hans-rosling.html): Médico e estatístico que mostrou, com dados e gráficos animados, que o mundo melhorou mais do que se pensa.
+- [Sandra Harding](https://cienciaparainiciantes.biblioverse.org/pensadores/harding.html): Filósofa feminista da ciência, defensora da objetividade forte. Quem foi, o que defendeu e o que dizem os críticos.
+- [Hasok Chang](https://cienciaparainiciantes.biblioverse.org/pensadores/hasok-chang.html): Filósofo e historiador da ciência, defensor do pluralismo e da “ciência complementar”.
+- [Carl Hempel](https://cienciaparainiciantes.biblioverse.org/pensadores/hempel.html): Filósofo do empirismo lógico, autor do modelo dedutivo-nomológico de explicação.
+- [David Hume](https://cienciaparainiciantes.biblioverse.org/pensadores/hume.html): Filósofo escocês, empirista radical, que formulou o problema da indução.
+- [Ibn al-Haytham (Alhazen)](https://cienciaparainiciantes.biblioverse.org/pensadores/ibn-al-haytham.html): Cientista árabe que estudou a luz com experimentos controlados e defendeu testar hipóteses.
+- [John Ioannidis](https://cienciaparainiciantes.biblioverse.org/pensadores/ioannidis.html): Médico e epidemiologista conhecido por expor a fragilidade de muitos resultados publicados.
+- [James Randi](https://cienciaparainiciantes.biblioverse.org/pensadores/james-randi.html): Mágico que dedicou a vida a desmascarar paranormais e charlatães. Quem foi, o que defendeu e o que dizem os críticos.
+- [Johanna Döbereiner](https://cienciaparainiciantes.biblioverse.org/pensadores/johanna-dobereiner.html): Agrônoma da Embrapa cuja pesquisa sobre fixação biológica de nitrogênio transformou a soja brasileira.
+- [John Stuart Mill](https://cienciaparainiciantes.biblioverse.org/pensadores/john-stuart-mill.html): Filósofo inglês que sistematizou a lógica da indução e os métodos para descobrir causas.
+- [Daniel Kahneman](https://cienciaparainiciantes.biblioverse.org/pensadores/kahneman.html): Psicólogo, Nobel de Economia de 2002, que mapeou os vieses do julgamento humano.
+- [Immanuel Kant](https://cienciaparainiciantes.biblioverse.org/pensadores/kant.html): Filósofo alemão que tentou unir empirismo e racionalismo e fundamentar a física de Newton.
+- [Thomas Kuhn](https://cienciaparainiciantes.biblioverse.org/pensadores/kuhn.html): Físico e historiador que descreveu a ciência como alternância de paradigmas e revoluções.
+- [Kurt Gödel](https://cienciaparainiciantes.biblioverse.org/pensadores/kurt-godel.html): Lógico que provou que todo sistema matemático suficientemente rico tem verdades que não pode provar.
+- [Imre Lakatos](https://cienciaparainiciantes.biblioverse.org/pensadores/lakatos.html): Filósofo húngaro que propôs avaliar a ciência por programas de pesquisa progressivos ou degenerativos.
+- [Bruno Latour](https://cienciaparainiciantes.biblioverse.org/pensadores/latour.html): Antropólogo e sociólogo francês da ciência em ação e da teoria ator-rede.
+- [Larry Laudan](https://cienciaparainiciantes.biblioverse.org/pensadores/laudan.html): Filósofo americano das tradições de pesquisa, da metaindução pessimista e crítico da demarcação.
+- [John Locke](https://cienciaparainiciantes.biblioverse.org/pensadores/locke.html): Filósofo inglês, pai do empirismo moderno: a mente nasce como folha em branco.
+- [Helen Longino](https://cienciaparainiciantes.biblioverse.org/pensadores/longino.html): Filósofa do empirismo contextual: a objetividade é uma conquista da crítica coletiva.
+- [Marcelo Gleiser](https://cienciaparainiciantes.biblioverse.org/pensadores/marcelo-gleiser.html): Físico e divulgador brasileiro, defensor dos limites do conhecimento e crítico do cientificismo.
+- [Marie Curie](https://cienciaparainiciantes.biblioverse.org/pensadores/marie-curie.html): Física e química que estudou a radioatividade e ganhou dois prêmios Nobel, em áreas diferentes.
+- [Robert K. Merton](https://cienciaparainiciantes.biblioverse.org/pensadores/merton.html): Sociólogo americano que fundou a sociologia da ciência e descreveu suas normas.
+- [Michael E. Mann](https://cienciaparainiciantes.biblioverse.org/pensadores/michael-e-mann.html): Climatologista do gráfico do “taco de hóquei” e alvo central do negacionismo climático.
+- [Michael Shermer](https://cienciaparainiciantes.biblioverse.org/pensadores/michael-shermer.html): Historiador da ciência, fundador da Skeptics Society e da revista Skeptic.
+- [Neil deGrasse Tyson](https://cienciaparainiciantes.biblioverse.org/pensadores/neil-degrasse-tyson.html): Astrofísico, diretor do Planetário Hayden e apresentador da nova versão de Cosmos.
+- [Otto Neurath](https://cienciaparainiciantes.biblioverse.org/pensadores/neurath.html): Economista e filósofo do Círculo de Viena, criador da imagem do barco reconstruído em alto-mar.
+- [Isaac Newton](https://cienciaparainiciantes.biblioverse.org/pensadores/newton.html): Físico e matemático inglês que unificou a mecânica celeste e terrestre.
+- [Oliver Sacks](https://cienciaparainiciantes.biblioverse.org/pensadores/oliver-sacks.html): Neurologista que contou casos clínicos como literatura e humanizou os transtornos neurológicos.
+- [J. Robert Oppenheimer](https://cienciaparainiciantes.biblioverse.org/pensadores/oppenheimer.html): Físico que dirigiu o laboratório de Los Alamos no Projeto Manhattan e depois defendeu o controle das armas nucleares.
+- [Naomi Oreskes](https://cienciaparainiciantes.biblioverse.org/pensadores/oreskes.html): Historiadora da ciência que mostrou como a dúvida foi fabricada contra o tabaco e o clima.
+- [Oswaldo Cruz](https://cienciaparainiciantes.biblioverse.org/pensadores/oswaldo-cruz.html): Médico sanitarista que combateu a febre amarela e fundou a tradição de pesquisa da Fiocruz.
+- [Charles S. Peirce](https://cienciaparainiciantes.biblioverse.org/pensadores/peirce.html): Lógico, cientista e filósofo americano, fundador do pragmatismo e teórico da abdução.
+- [Massimo Pigliucci](https://cienciaparainiciantes.biblioverse.org/pensadores/pigliucci.html): Biólogo e filósofo que defendeu o problema da demarcação contra sua “morte”.
+- [Henri Poincaré](https://cienciaparainiciantes.biblioverse.org/pensadores/poincare.html): Matemático e físico francês, pai do convencionalismo e precursor da teoria do caos.
+- [Karl Popper](https://cienciaparainiciantes.biblioverse.org/pensadores/popper.html): Filósofo da falseabilidade e do racionalismo crítico, também defensor da sociedade aberta.
+- [Hilary Putnam](https://cienciaparainiciantes.biblioverse.org/pensadores/putnam.html): Filósofo americano do argumento do milagre, que mudou de posição várias vezes.
+- [W. V. O. Quine](https://cienciaparainiciantes.biblioverse.org/pensadores/quine.html): Filósofo americano que atacou os dogmas do empirismo e propôs naturalizar a epistemologia.
+- [Hans Reichenbach](https://cienciaparainiciantes.biblioverse.org/pensadores/reichenbach.html): Líder do grupo de Berlim, filósofo da relatividade e da probabilidade.
+- [Richard Dawkins](https://cienciaparainiciantes.biblioverse.org/pensadores/richard-dawkins.html): Biólogo evolutivo, autor de O Gene Egoísta e um dos divulgadores mais influentes e polêmicos.
+- [Ronald Fisher](https://cienciaparainiciantes.biblioverse.org/pensadores/ronald-fisher.html): Estatístico e geneticista que criou a randomização, o p-valor e boa parte da estatística moderna.
+- [Rosalind Franklin](https://cienciaparainiciantes.biblioverse.org/pensadores/rosalind-franklin.html): Química cujas imagens de raios X foram essenciais para a descoberta da estrutura do DNA.
+- [Bertrand Russell](https://cienciaparainiciantes.biblioverse.org/pensadores/russell.html): Filósofo, lógico e ativista britânico, um dos fundadores da filosofia analítica.
+- [Carl Sagan](https://cienciaparainiciantes.biblioverse.org/pensadores/sagan.html): Astrônomo e divulgador científico, autor de Cosmos e do “kit de detecção de besteiras”.
+- [Moritz Schlick](https://cienciaparainiciantes.biblioverse.org/pensadores/schlick.html): Fundador e líder do Círculo de Viena. Quem foi, o que defendeu e o que dizem os críticos.
+- [Ignaz Semmelweis](https://cienciaparainiciantes.biblioverse.org/pensadores/semmelweis.html): Médico húngaro que reduziu drasticamente a febre puerperal com a lavagem das mãos.
+- [Siddhartha Mukherjee](https://cienciaparainiciantes.biblioverse.org/pensadores/siddhartha-mukherjee.html): Oncologista e autor da “biografia do câncer” que ganhou o Pulitzer. Quem foi, o que defendeu e o que dizem os críticos.
+- [Simon Singh](https://cienciaparainiciantes.biblioverse.org/pensadores/simon-singh.html): Físico e escritor de ciência, conhecido pelo processo movido contra ele por quiropraxistas.
+- [Stephen Hawking](https://cienciaparainiciantes.biblioverse.org/pensadores/stephen-hawking.html): Físico teórico dos buracos negros e o divulgador científico mais conhecido do fim do século XX.
+- [Stephen Jay Gould](https://cienciaparainiciantes.biblioverse.org/pensadores/stephen-jay-gould.html): Paleontólogo e ensaísta, crítico do adaptacionismo e do racismo científico.
+- [Steven Pinker](https://cienciaparainiciantes.biblioverse.org/pensadores/steven-pinker.html): Psicólogo cognitivo e linguista, defensor do Iluminismo e da tese de que a violência declinou.
+- [Bas van Fraassen](https://cienciaparainiciantes.biblioverse.org/pensadores/van-fraassen.html): Filósofo do empirismo construtivo: a ciência busca adequação empírica, não verdade sobre o inobservável.
+- [William Whewell](https://cienciaparainiciantes.biblioverse.org/pensadores/whewell.html): Filósofo e historiador da ciência que cunhou a palavra “cientista” e defendeu o método hipotético-dedutivo.
+- [William James](https://cienciaparainiciantes.biblioverse.org/pensadores/william-james.html): Psicólogo e filósofo americano que popularizou o pragmatismo. Quem foi, o que defendeu e o que dizem os críticos.
+- [Ludwig Wittgenstein](https://cienciaparainiciantes.biblioverse.org/pensadores/wittgenstein.html): Filósofo austríaco que marcou duas fases da filosofia analítica. Quem foi, o que defendeu e o que dizem os críticos.
+- [John Worrall](https://cienciaparainiciantes.biblioverse.org/pensadores/worrall.html): Filósofo britânico que propôs o realismo estrutural. Quem foi, o que defendeu e o que dizem os críticos.
+
+## Pseudociências
+
+- [5G e saúde](https://cienciaparainiciantes.biblioverse.org/pseudociencias/5g-e-saude.html): Antenas de 5G causariam câncer ou até a Covid-19. Ondas de rádio desse tipo não têm energia para danificar o DNA, e vírus não viajam por ondas.
+- [Acupuntura](https://cienciaparainiciantes.biblioverse.org/pseudociencias/acupuntura.html): Agulhas em pontos de “meridianos de energia”. Há algum efeito em dores crônicas, mas a acupuntura falsa funciona quase igual.
+- [Antigos astronautas](https://cienciaparainiciantes.biblioverse.org/pseudociencias/antigos-astronautas.html): Pirâmides, Nazca e outros monumentos teriam sido feitos ou inspirados por extraterrestres. A arqueologia explica como povos antigos os construíram.
+- [Astrologia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/astrologia.html): A posição dos astros no nascimento definiria a personalidade e o destino. Testes cegos mostram que astrólogos não acertam além do acaso.
+- [Biomagnetismo (par biomagnético)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/biomagnetismo.html): Ímãs colocados em pares sobre o corpo eliminariam vírus, bactérias e até câncer. Ímãs estáticos não têm esse efeito.
+- [Chemtrails](https://cienciaparainiciantes.biblioverse.org/pseudociencias/chemtrails.html): Os rastros dos aviões seriam produtos químicos espalhados de propósito. São vapor de água condensado.
+- [Constelação familiar](https://cienciaparainiciantes.biblioverse.org/pseudociencias/constelacao-familiar.html): Terapia em que desconhecidos “representam” a família de alguém para revelar traumas herdados. Não há estudos de qualidade que mostrem eficácia.
+- [Cristaloterapia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/cristaloterapia.html): Cristais emitiriam energias que curam e equilibram. Em teste, cristais falsos produziram os mesmos efeitos que os verdadeiros.
+- [Cura quântica](https://cienciaparainiciantes.biblioverse.org/pseudociencias/cura-quantica.html): Usa palavras da física quântica para vender curas pela mente e pela “energia”. A física quântica não diz nada disso.
+- [Criacionismo e design inteligente](https://cienciaparainiciantes.biblioverse.org/pseudociencias/design-inteligente.html): Apresenta a criação por um projetista como alternativa científica à evolução. Não tem programa de pesquisa nem previsões testáveis.
+- [Dietas e produtos detox](https://cienciaparainiciantes.biblioverse.org/pseudociencias/detox.html): Prometem eliminar “toxinas” com sucos, chás e adesivos. O corpo já faz isso com o fígado e os rins, e os produtos não mostram efeito.
+- [Dieta alcalina](https://cienciaparainiciantes.biblioverse.org/pseudociencias/dieta-alcalina.html): Promete mudar o pH do sangue com a comida para prevenir doenças e até câncer. O corpo mantém o pH do sangue estável sozinho.
+- [Dieta carnívora (e a paleo)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/dieta-carnivora.html): Só carne, ovos e gordura animal, vendida como cura para doenças autoimunes, depressão e obesidade.
+- [Dieta do tipo sanguíneo](https://cienciaparainiciantes.biblioverse.org/pseudociencias/dieta-do-tipo-sanguineo.html): Cada tipo de sangue pediria uma dieta diferente. Estudos mostram que os benefícios dessas dietas não dependem do tipo sanguíneo.
+- [Dieta frugívora](https://cienciaparainiciantes.biblioverse.org/pseudociencias/dieta-frugivora.html): Comer quase só frutas, por ser “a dieta natural do ser humano”. Sem acompanhamento, causa deficiências documentadas; as promessas de cura não têm apoio.
+- [Florais de Bach](https://cienciaparainiciantes.biblioverse.org/pseudociencias/florais-de-bach.html): Gotas de essências de flores diluídas em conhaque para equilibrar emoções. Ensaios controlados não acham diferença em relação ao placebo.
+- [Fosfoetanolamina, a “pílula do câncer”](https://cienciaparainiciantes.biblioverse.org/pseudociencias/fosfoetanolamina.html): Substância distribuída como cura do câncer sem testes clínicos. Quando testada, não mostrou benefício.
+- [Frenologia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/frenologia.html): Lia o caráter pelos calombos do crânio. Foi popular no século XIX e serviu para justificar preconceitos.
+- [Grafologia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/grafologia.html): Analisa a letra para revelar a personalidade, e já foi usada para contratar funcionários. Os estudos não mostram validade.
+- [Homeopatia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/homeopatia.html): Diluir uma substância até não restar nenhuma molécula dela e usar a água para tratar doenças. Revisões amplas não acham efeito além do placebo.
+- [Iridologia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/iridologia.html): Diagnosticar doenças pelas manchas da íris. Em testes cegos, iridologistas não conseguem identificar quem está doente.
+- [Lei da atração](https://cienciaparainiciantes.biblioverse.org/pseudociencias/lei-da-atracao.html): Pensar positivamente atrairia riqueza, saúde e amor pela “vibração” dos pensamentos. Não há mecanismo, e fantasiar pode até reduzir o esforço.
+- [Lisenkoísmo](https://cienciaparainiciantes.biblioverse.org/pseudociencias/lisenkoismo.html): Na União Soviética, a genética foi banida por razões ideológicas e substituída pelas ideias de Lisenko. A agricultura e os cientistas pagaram o preço.
+- [Megadoses de vitaminas](https://cienciaparainiciantes.biblioverse.org/pseudociencias/megadoses-de-vitaminas.html): Doses enormes de vitaminas preveniriam resfriados e curariam câncer. Grandes ensaios não confirmaram, e alguns mostraram danos.
+- [MMS e dióxido de cloro](https://cienciaparainiciantes.biblioverse.org/pseudociencias/mms-dioxido-de-cloro.html): Um alvejante vendido como cura para autismo, malária e Covid-19. É tóxico e não cura nada.
+- [Movimento antivacina](https://cienciaparainiciantes.biblioverse.org/pseudociencias/movimento-antivacina.html): Afirma que vacinas causam autismo e outros males graves. Estudos com milhões de crianças refutaram essas alegações.
+- [Negacionismo climático](https://cienciaparainiciantes.biblioverse.org/pseudociencias/negacionismo-climatico.html): Nega que o planeta esteja aquecendo, que os humanos sejam a causa ou que isso seja um problema. Contraria um consenso científico muito sólido.
+- [Nova Medicina Germânica](https://cienciaparainiciantes.biblioverse.org/pseudociencias/nova-medicina-germanica.html): Afirma que o câncer é causado por choques emocionais e se cura resolvendo o conflito, sem quimioterapia. Seguidores morreram de doenças tratáveis.
+- [Numerologia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/numerologia.html): Atribui significados místicos aos números do nome e da data de nascimento. Não há mecanismo nem evidência.
+- [Ozonioterapia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/ozonioterapia.html): Aplicar ozônio no corpo para tratar uma longa lista de doenças. Fora de usos muito específicos, falta evidência.
+- [Percepção extrassensorial (parapsicologia)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/parapsicologia.html): Telepatia, premonição e clarividência estudadas em laboratório por mais de um século, sem um efeito que se repita de forma confiável.
+- [Programação neurolinguística (PNL)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/pnl.html): Promete “reprogramar” a mente imitando a linguagem e os gestos de pessoas de sucesso. Suas teses centrais foram testadas e não se confirmaram.
+- [Psicanálise](https://cienciaparainiciantes.biblioverse.org/pseudociencias/psicanalise.html): A teoria freudiana do inconsciente é irrefutável e não acompanhou a psicologia nem a neurociência; e o que a terapia parece fazer de bom se explica pelos…
+- [Quiropraxia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/quiropraxia.html): Manipulação da coluna para tratar dores e, segundo a versão original, quase todas as doenças. Ajuda modestamente em dor lombar; o resto não tem apoio.
+- [Racismo científico e eugenia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/racismo-cientifico.html): Usou medições e estatísticas para afirmar hierarquias entre “raças” e defender esterilizações. A genética mostrou que as premissas eram falsas.
+- [Radiestesia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/radiestesia.html): Encontrar água, minérios ou objetos com uma forquilha ou pêndulo. Em testes controlados, radiestesistas não acertam além do acaso.
+- [Reiki](https://cienciaparainiciantes.biblioverse.org/pseudociencias/reiki.html): Imposição de mãos para canalizar uma “energia vital universal”. Os estudos de qualidade não mostram efeito além do placebo.
+- [Respiracionismo (“viver de luz”)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/respiracionismo.html): Gurus que dizem viver sem comer, alimentados por luz, ar ou “prana”. Fisiologicamente impossível, e com mortes documentadas de seguidores.
+- [Terapia de conversão (“cura gay”)](https://cienciaparainiciantes.biblioverse.org/pseudociencias/terapia-de-conversao.html): Práticas que prometem mudar a orientação sexual. Não funcionam e estão associadas a sofrimento psicológico grave.
+- [Terra plana](https://cienciaparainiciantes.biblioverse.org/pseudociencias/terra-plana.html): A Terra seria um disco, e a esfericidade, uma farsa. Evidências acessíveis a qualquer pessoa mostram o contrário há mais de dois mil anos.
+- [Tratamento precoce da Covid-19](https://cienciaparainiciantes.biblioverse.org/pseudociencias/tratamento-precoce-covid.html): Combinação de remédios como cloroquina e ivermectina promovida contra a Covid-19. Grandes ensaios clínicos mostraram que não funcionam.
+- [Urinoterapia](https://cienciaparainiciantes.biblioverse.org/pseudociencias/urinoterapia.html): Beber ou aplicar a própria urina para tratar doenças. Não há evidência de benefício, e a urina contém o que o corpo descartou.
+
+## Optional
+
+- [Mapa do site](https://cienciaparainiciantes.biblioverse.org/sitemap.xml)
+- [Texto completo](https://cienciaparainiciantes.biblioverse.org/llms-full.txt)
