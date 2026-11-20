@@ -30,6 +30,7 @@ G = [
  (['ciencia-da-consciencia.html'], ['senciencia.html', 'mentes-artificiais.html', 'gradualismo.html'], ['sencientismo.html', 'politica-baseada-na-senciencia.html']),
  (['pseudociencias/negacionismo-climatico.html', 'debates/energia-nuclear.html'], ['etica-climatica.html'], ['debates/clima.html', 'debates/petroleo-margem-equatorial.html']),
  (['debates/ia-na-ciencia.html'], ['etica-da-inteligencia-artificial.html', 'problema-do-alinhamento.html'], ['debates/inteligencia-artificial.html', 'debates/ia-no-governo.html']),
+ (['debates/ia-na-escrita-cientifica.html'], ['etica-da-inteligencia-artificial.html'], ['debates/inteligencia-artificial.html']),
  (['ciencia-a-servico-do-mal.html'], ['situacionismo-e-experimentos.html', 'catastrofes-morais.html'], ['vertentes/nazismo.html', 'vertentes/totalitarismo.html', 'vertentes/marxismo-leninismo.html', 'vertentes/maoismo.html']),
  (['pseudociencias/racismo-cientifico.html', 'pseudociencias/lisenkoismo.html'], [], ['vertentes/nazismo.html', 'vertentes/marxismo-leninismo.html']),
  (['genetica-ambiente-e-comportamento.html', 'filosofia-da-biologia.html'], ['evolucao-e-moral.html'], ['genetica-e-politica.html']),

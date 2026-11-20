@@ -3062,7 +3062,7 @@ Erro comum: “Se está publicado, foi revisado por pares, logo é confiável.�
 
 Pratique: Qual o nível da evidência?. Dez estudos descritos em uma frase. Diga em que degrau da pirâmide cada um está.
 
-Nos debates: A pirâmide de evidências é um grande erro?.
+Nos debates: A pirâmide de evidências é um grande erro?, Usar IA para escrever ciência é um problema?.
 
 Na BiblioVerse: Biblioteca de Dados, catálogo pesquisável das melhores fontes de dados e estatísticas; Biblioteca da Racionalidade, catálogo pesquisável de pensamento crítico, racionalidade e evidências.
 
@@ -3532,7 +3532,7 @@ Erro comum: “Se a descoberta for importante, os meios se justificam.” Os cas
 
 Casos para testar: Terapia de conversão (“cura gay”).
 
-Nos debates: Pseudociências devem ser proibidas?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem.
+Nos debates: Pseudociências devem ser proibidas?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem, Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -3816,6 +3816,8 @@ Para pensar
 Que resultado “bom demais para ser verdade” você já viu circular?
 
 Erro comum: “Fraudes provam que a ciência não é confiável.” Fraudes são raras e, em geral, descobertas por outros cientistas. Isso mostra a autocorreção funcionando, embora às vezes devagar.
+
+Nos debates: Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -4292,7 +4294,7 @@ Erro comum: “Se os dados são reais, o resultado é honesto.” Dados reais an
 
 Pratique: Detector de pseudociência. Marque os sinais de alerta de uma prática ou afirmação e veja o resultado.
 
-Nos debates: Pesquisa financiada pela indústria merece confiança?.
+Nos debates: Pesquisa financiada pela indústria merece confiança?, Usar IA para escrever ciência é um problema?.
 
 Na BiblioVerse: Biblioteca de Conspirações, catálogo pesquisável de teorias da conspiração, pseudociências, fraudes e crenças falsas, e de como desmenti-las.
 
@@ -5784,7 +5786,7 @@ Pratique: Qual o nível da evidência?. Dez estudos descritos em uma frase. Diga
 
 Casos para testar: Percepção extrassensorial (parapsicologia).
 
-Nos debates: É hora de abandonar a “significância estatística”?, Pesquisa financiada pela indústria merece confiança?, O conhecimento científico deve ser gratuito?, A inteligência artificial pode fazer ciência?.
+Nos debates: É hora de abandonar a “significância estatística”?, Pesquisa financiada pela indústria merece confiança?, O conhecimento científico deve ser gratuito?, A inteligência artificial pode fazer ciência?, Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -7493,7 +7495,7 @@ Alvin Goldman
 
 Lições: Como justificar uma crença, Naturalismo e epistemologia naturalizada.
 
-Nos debates: A inteligência artificial pode fazer ciência?.
+Nos debates: A inteligência artificial pode fazer ciência?, Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -7767,9 +7769,9 @@ Helen Longino
 
 Lições: Valores na ciência.
 
-Nos debates: A psicanálise é ciência?, Alimentos transgênicos são seguros para comer?, Meditação, ioga e mindfulness: ciência ou pseudociência?, A ciência é neutra?, Pesquisa financiada pela indústria merece confiança?, O conhecimento científico deve ser gratuito? e mais 3
+Nos debates: A psicanálise é ciência?, Alimentos transgênicos são seguros para comer?, Meditação, ioga e mindfulness: ciência ou pseudociência?, A ciência é neutra?, Pesquisa financiada pela indústria merece confiança?, O conhecimento científico deve ser gratuito? e mais 4
 
-Testes em animais são necessários?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem.
+Testes em animais são necessários?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem, Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -7879,6 +7881,8 @@ Concepções erradas e espantalhos que costumam aparecer em conversas e debates,
 - “Dispensa a evidência.” Um dos traços virtuosos é justamente responder bem à evidência.
 
 Lições: A postura científica, O problema de Gettier.
+
+Nos debates: Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -8934,9 +8938,9 @@ Charles S. PeirceWilliam JamesJohn Dewey
 
 Lições: O método científico, O que é uma explicação científica?.
 
-Nos debates: Existe conhecimento que não é científico?, Práticas integrativas sem evidência devem estar no SUS?, A vacinação deve ser obrigatória?, Meditação, ioga e mindfulness: ciência ou pseudociência?, “Seguir a ciência” na política: até onde?, O conhecimento científico deve ser gratuito? e mais 4
+Nos debates: Existe conhecimento que não é científico?, Práticas integrativas sem evidência devem estar no SUS?, A vacinação deve ser obrigatória?, Meditação, ioga e mindfulness: ciência ou pseudociência?, “Seguir a ciência” na política: até onde?, O conhecimento científico deve ser gratuito? e mais 5
 
-A energia nuclear é uma boa opção?, Pesquisas que tornam vírus mais perigosos devem ser feitas?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem.
+A energia nuclear é uma boa opção?, Pesquisas que tornam vírus mais perigosos devem ser feitas?, Cientistas são responsáveis pelo uso de suas descobertas?, Modificar genes e seres: para o mal e para o bem, Usar IA para escrever ciência é um problema?.
 
 ## Fontes e leituras
 
@@ -9882,6 +9886,38 @@ Em 2024, o Nobel de Química premiou o AlphaFold, sistema de IA que prevê a est
 
 ## Para onde a evidência aponta
 Debate em abertoA IA já produziu contribuições científicas reais, como o AlphaFold, e também riscos concretos à integridade da literatura. Se ela pode “fazer ciência” no sentido pleno, com explicação e crítica, e como integrá-la com segurança, são questões em aberto.
+
+Avaliação do site, sujeita a críticas. Evidências e argumentos novos podem mudá-la.
+
+---
+
+# Usar IA para escrever ciência é um problema?
+
+Fonte: https://cienciaparainiciantes.biblioverse.org/debates/ia-na-escrita-cientifica.html · Debates
+
+Se na ciência o que conta é o conteúdo, e não quem o escreveu, qual o problema de usar IA com revisão e sem plágio?
+
+A ciência julga ideias pelo mérito, e não pela pessoa que as propõe: é o “universalismo” descrito por Robert Merton. Daí vem uma pergunta razoável: se um artigo é correto, original e revisado, por que importaria que um modelo de linguagem ajudou a escrevê-lo? A resposta depende do uso. Corrigir o inglês, traduzir, resumir a literatura, escrever código de análise, gerar hipóteses, produzir texto, criar imagens e dados, revisar o trabalho de colegas: cada um tem riscos diferentes. E a ciência não depende só do conteúdo; depende também de que alguém responda por cada afirmação e de que cada afirmação possa ser rastreada até a sua fonte.
+
+ Posições gerais. Muita gente concorda em parte com cada lado.
+
+## O que as correntes tendem a dizer
+
+| Empirismo contextual | Longino diria que a objetividade vem da crítica pública: o essencial é que o uso seja declarado e possa ser examinado pela comunidade. |
+| Confiabilismo | Perguntaria se o processo é confiável para cada tarefa: a IA é razoável para revisar a língua e pouco confiável para fatos e referências. |
+| Pragmatismo | Julgaria pelos efeitos: se a IA melhora a comunicação sem aumentar erros, é bem-vinda; se enche as revistas de erros, não. |
+| Epistemologia das virtudes | Olharia para o cientista: delegar o pensamento pode enfraquecer o cuidado, a honestidade e a atenção que a pesquisa exige. |
+
+## Por que é complexo
+
+- A pergunta útil não é “usou IA?”, e sim três: o autor entende e assume cada afirmação? O uso foi declarado? Fatos, dados e referências foram conferidos nas fontes originais?
+- Os usos têm riscos diferentes: revisar a língua ou traduzir é baixo risco; resumir literatura e sugerir referências é risco médio, porque a IA inventa; gerar dados, imagens ou resultados é fraude, com ou sem IA.
+- Não cometer plágio não basta: um texto pode ser original e ainda conter afirmações que ninguém verificou.
+- Em trabalhos de estudantes, o objetivo é aprender a pensar e escrever; ali o uso pode atrapalhar o que se quer avaliar, mesmo que o texto final fique bom.
+- Declarar o uso protege o autor e o leitor: permite que a comunidade avalie o trabalho sabendo como ele foi feito.
+
+## Para onde a evidência aponta
+Um lado tem mais apoio, com ressalvasO peso está com o uso declarado e responsável. As principais diretrizes editoriais (COPE, ICMJE, Nature, Science) aceitam ferramentas de IA na redação desde que o uso seja declarado, que a IA não figure como autora e que os autores tenham conferido e assumam todo o conteúdo. A premissa de que só o conteúdo importa vale para julgar ideias, mas a ciência também depende de responsabilidade e rastreabilidade: alguém precisa responder por cada afirmação, e cada referência precisa existir. Segue em debate onde passar a linha no uso para gerar hipóteses, analisar dados, revisar trabalhos alheios e em trabalhos de estudantes, em que as regras ainda variam entre instituições.
 
 Avaliação do site, sujeita a críticas. Evidências e argumentos novos podem mudá-la.
 
