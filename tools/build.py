@@ -33,6 +33,8 @@ from licoes_novas8 import NOVAS8_INICIANTE, POSICAO8
 FERR.insert(4, JOGO_CONSENSO); JOGOS[JOGO_CONSENSO[0]] = JOGO_CONSENSO_DADOS; GLOSSARIO.extend(GLOSSARIO_NOVOS)
 from crossover import caixa_ciencia  # ponte com os sites irmãos (tools/crossover.py, igual nos três sites)
 import arte
+from ferr_intro import FERR_INTRO, SO_NOME_COMPLETO
+from pensadores_contexto import CONTEXTO
 
 # segunda leva (2026-11-06): lições entram depois da indicada em POSICAO; o resto é reordenado de forma estável pelo grupo
 def _apos(ls, slug, nova): ls.insert(next(i for i, l in enumerate(ls) if l['slug'] == slug) + 1, nova)
@@ -71,7 +73,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://cienciaparainiciantes.biblioverse.org'
 NOME = 'Ciência Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
-ATUALIZADO = '2026-11-07'
+ATUALIZADO = '2026-11-20'
 CAMPOS = ('slug', 'grupo', 'titulo', 'temas', 'resumo', 'corpo', 'fontes', 'quiz', 'analogia', 'crianca', 'obj', 'caso', 'erro', 'ferr', 'pre', 'guardar', 'pensar')
 
 # ---------- validação e montagem das lições ----------
@@ -414,6 +416,7 @@ def teste_nivel(slug, rot, ls):
     dd = json.dumps(dict(itens=itens, n=10), ensure_ascii=False).replace('</', '<\\/')
     corpo = cabeca(f'<a href="{slug}.html">{e(rot)}</a>', f'Teste do nível {rot}', f'Dez perguntas sorteadas entre as {len(itens)} do nível. Cada resposta diz em que lição rever o assunto. Refaça quantas vezes quiser: as perguntas mudam.')
     corpo += f'<div class="wrap estreito secao"><div id="jogo" class="quiz" style="margin-top:0"><div class="placar"><span></span><span></span></div><div class="barra-prog"><i></i></div><div class="alvo" style="margin-top:14px"></div><button class="btn prox-q" type="button" style="margin-top:12px" hidden>Próxima</button></div><script type="application/json" id="dados-teste">{dd}</script><p class="legenda">Acertou 8 ou mais? Você está pronto para o próximo nível. Menos que isso: veja as lições indicadas e tente de novo.</p><p><a class="btn alt" href="{slug}.html">Voltar ao nível {e(rot)}</a></p></div>'
+    corpo += f'<div class="wrap estreito leitura secao" style="padding-top:0"><h2>O que o teste cobre</h2><p>As perguntas saem das {len(ls)} lições do nível {e(rot)}. Cada lição tem três perguntas: uma de compreensão, uma de aplicação e uma de conferência. Se errar, revise a lição indicada na resposta.</p><ul>' + ''.join(f'<li><a href="{l["slug"]}.html">{e(l["titulo"])}</a>: {e(l["resumo"])}</li>' for l in ls) + '</ul></div>'
     page(f'teste-{slug}.html', f'Teste do nível {rot}', f'Dez perguntas sorteadas sobre as lições do nível {rot} de ciência, com a lição a rever em cada resposta.', corpo, atual=f'{slug}.html')
 
 def revisao(slug, rot, ls):
@@ -560,6 +563,38 @@ def debates_pub():
         page(f'debates/{d["s"]}.html', d['n'], d['r'], corpo, atual='debates.html')
 
 # ---------- pensadores ----------
+def _textos(x):
+    if isinstance(x, str): yield x
+    elif isinstance(x, dict):
+        for v in x.values(): yield from _textos(v)
+    elif isinstance(x, (list, tuple)):
+        for v in x: yield from _textos(v)
+
+def _limpo(s): return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s)).strip()
+
+def mencoes(p):
+    """Onde o pensador aparece no resto do site: lições, debates, pseudociências e correntes, com a frase que o cita."""
+    nome = re.sub(r'\s*\(.*?\)', '', p['nome']).strip()
+    alts = [nome] + re.findall(r'\((.*?)\)', p['nome'])
+    sob = nome.split()[-1]
+    if p['slug'] not in SO_NOME_COMPLETO and len(sob) >= 4: alts.append(sob)
+    rx = re.compile(r'(?<![\wÀ-ÿ])(' + '|'.join(re.escape(a) for a in alts) + r')(?![\wÀ-ÿ])')
+    def acha(obj):
+        for s in _textos(obj):
+            if s.startswith('http') or not rx.search(s): continue
+            for fr in re.split(r'(?<=[.!?])\s+', _limpo(s)):
+                if rx.search(fr): return fr if len(fr) <= 260 else fr[:257].rsplit(' ', 1)[0] + '…'
+        return None
+    fontes_ = [('Lições', [(l['titulo'], f'../{l["slug"]}.html', {k: l[k] for k in ('resumo', 'corpo', 'caso', 'erro', 'analogia', 'guardar', 'pensar') if k in l}) for l in TODAS], 8),
+               ('Debates', [(d['n'], f'../debates/{d["s"]}.html', d) for d in DEBATES], 5),
+               ('Pseudociências', [(x['n'], f'../pseudociencias/{x["s"]}.html', x) for x in PSEUDO], 4),
+               ('Correntes', [(c['n'], f'../correntes/{c["s"]}.html', c) for c in COR if c['s'] not in p['correntes']], 5)]
+    out = []
+    for rot, its, lim in fontes_:
+        achados = [(n, u, fr) for n, u, o in its for fr in [acha(o)] if fr][:lim]
+        if achados: out.append((rot, achados))
+    return out
+
 def pensadores():
     bots = '<button type="button" data-k="c" data-v="" aria-pressed="true">Todos</button>' + ''.join(f'<button type="button" data-k="c" data-v="{e(a)}" aria-pressed="false">{e(a)}</button>' for a in AREAS)
     gr = ''.join(f'<section class="grupo-l"><h2 class="grupo">{e(a)}</h2><div class="grade">' + ''.join(cartao_p(p, 'pensadores/') for p in PES if p['area'] == a) + '</div></section>' for a in AREAS)
@@ -573,7 +608,14 @@ def pensadores():
         ant, prox = PES[i - 1], PES[(i + 1) % len(PES)]
         lado = f'<aside class="lado"><div class="caixa"><h2>Em resumo</h2><dl><dt>Viveu</dt><dd>{e(p["anos"])}</dd><dt>Onde</dt><dd>{e(p["pais"])}</dd><dt>Área</dt><dd>{e(p["area"])}</dd></dl></div><div class="caixa toc-caixa"><h2>Nesta página</h2><ul class="toc"></ul></div></aside>'
         corpo = cabeca('<a href="../pensadores.html">Pensadores</a>', p['nome'], e(p['quem']), meta=f'<div class="meta"><span class="tipo fam f{COR_AREA[p["area"]]}">{e(p["area"])}</span><span class="tipo ferr">{e(p["anos"])}</span></div>')
-        corpo += f'''<div class="wrap layout"><article class="leitura"><h2>Ideias principais</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in p["ideias"])}</ul><h2>Obras</h2><ul>{"".join(f"<li><em>{e(x)}</em></li>" for x in p["obras"])}</ul><h2>O que dizem os críticos</h2><p>{e(p["criticas"])}</p>{liga}
+        mm = mencoes(p)
+        onde = ''
+        if mm:
+            sing = {'Lições': 'lição', 'Debates': 'debate', 'Pseudociências': 'pseudociência', 'Correntes': 'corrente'}
+            pr = [f'{len(v)} {k.lower() if len(v) > 1 else sing[k]}' for k, v in mm]
+            resumo_m = pr[0] if len(pr) == 1 else ', '.join(pr[:-1]) + ' e ' + pr[-1]
+            onde = f'<h2>Onde {e(p["nome"])} aparece no site</h2><p>Citado em {resumo_m}. Abaixo, a frase de cada página que menciona {e(re.sub(r" *\(.*?\)", "", p["nome"]))}; o link leva ao contexto completo.</p>' + ''.join(f'<h3>{e(k)}</h3><ul>' + ''.join(f'<li><a href="{u}">{e(n)}</a>: “{e(fr)}”</li>' for n, u, fr in v) + '</ul>' for k, v in mm)
+        corpo += f'''<div class="wrap layout"><article class="leitura">{('<h2>Por que importa</h2><p>' + e(CONTEXTO[p['slug']]) + '</p>') if p['slug'] in CONTEXTO else ''}<h2>Ideias principais</h2><ul class="lista-forte">{"".join(f"<li>{e(x)}</li>" for x in p["ideias"])}</ul><h2>Obras</h2><ul>{"".join(f"<li><em>{e(x)}</em></li>" for x in p["obras"])}</ul><h2>O que dizem os críticos</h2><p>{e(p["criticas"])}</p>{liga}{onde}
 {fontes([("Wikipédia: " + p["nome"], "https://en.wikipedia.org/wiki/" + p["w"])] + p["fx"])}<nav class="pager" aria-label="Pensadores"><a href="{ant["slug"]}.html"><small>← Anterior</small>{e(ant["nome"])}</a><a class="prox" href="{prox["slug"]}.html"><small>Próximo →</small>{e(prox["nome"])}</a></nav></article>{lado}</div><section class="relac"><div class="wrap"><h2>Na mesma área</h2><div class="grade">{"".join(cartao_p(x) for x in mesmos)}</div></div></section>'''
         page(f'pensadores/{p["slug"]}.html', p['nome'], p['quem'], corpo, atual='pensadores.html')
 
@@ -599,6 +641,8 @@ def ferramentas():
             dd = json.dumps(DETECTOR, ensure_ascii=False).replace('</', '<\\/')
             corpo = f'<div id="detector" class="quiz" style="margin-top:0"><p class="k">Pense numa prática, produto ou afirmação e marque o que se aplica</p><div class="itens"></div><div class="saida fb" role="status" style="font-size:1.05rem;margin-top:14px"></div></div><script type="application/json" id="dados-detector">{dd}</script><p class="legenda">O detector não dá veredito: conta sinais de alerta. Uma prática com muitos sinais merece desconfiança e uma busca por revisões sistemáticas; uma com poucos ainda precisa de evidência a favor. <a href="../o-que-e-pseudociencia.html">Leia a lição sobre pseudociência</a>.</p>'
             lede = 'Doze perguntas sobre uma afirmação ou prática. Quanto mais sinais de alerta, mais motivos para desconfiar.'
+        pars, lic = FERR_INTRO[a]
+        corpo += '<div class="leitura" style="margin-top:2rem"><h2>O que este exercício treina</h2>' + ''.join(f'<p>{e(x)}</p>' for x in pars) + '<h2>Lições para revisar</h2><ul>' + ''.join(f'<li><a href="../{s}.html">{e(L_S[s]["titulo"])}</a>: {e(L_S[s]["resumo"])}</li>' for s in lic) + '</ul><p>Sem cadastro: nada do que você responde sai do seu navegador. Veja as <a href="../ferramentas.html">outras ferramentas</a>.</p></div>'
         page(f'ferramentas/{a}.html', tit, desc, cabeca('<a href="../ferramentas.html">Ferramentas</a>', tit, lede) + f'<div class="wrap ferr secao" style="padding-top:28px">{corpo}</div>', atual='ferramentas.html')
 
 def biblioteca():

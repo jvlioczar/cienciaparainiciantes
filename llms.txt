@@ -4,7 +4,7 @@
 
 Guia educativo gratuito, em português do Brasil, publicado pela BiblioVerse. Cada página traz as fontes ao final; classificações e veredictos são estimativas editoriais explicadas na própria página e abertas a correção.
 
-Atualizado em 07/11/2026. Texto completo das lições e artigos em [llms-full.txt](https://cienciaparainiciantes.biblioverse.org/llms-full.txt).
+Atualizado em 20/11/2026. Texto completo das lições e artigos em [llms-full.txt](https://cienciaparainiciantes.biblioverse.org/llms-full.txt).
 
 ## Principais seções
 
