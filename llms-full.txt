@@ -2965,7 +2965,7 @@ Nos debates: Escolas devem “ensinar os dois lados” da evolução?.
 
 ← AnteriorMá ciência: entre o erro honesto e a fraudeVocê chegou ao fim do nível Intermediário
 
-Faça o teste do nível e continue com 21 lições do nível Avançado.
+Faça o teste do nível e continue com 22 lições do nível Avançado.
 
 Revisão do nível Teste do nível Ir para o curso Avançado →
 
@@ -5348,7 +5348,7 @@ Nos debates: É hora de abandonar a “significância estatística”?.
 - Teorema de Bayes (Wikipédia)
 - Base rate fallacy (Wikipédia)
 
-← AnteriorTeorias unificadas e a busca por elasPróxima →Filosofia analítica e ciência
+← AnteriorDas escalas ao multiverso: do zepto ao cosmosPróxima →Filosofia analítica e ciência
 
 ---
 
@@ -5803,6 +5803,133 @@ Nos debates: É hora de abandonar a “significância estatística”?, Pesquisa
 - Center for Open Science
 
 ← AnteriorConfiança em especialistas e epistemologia socialPróxima →Negacionismo e desinformação
+
+---
+
+# Das escalas ao multiverso: do zepto ao cosmos
+
+Fonte: https://cienciaparainiciantes.biblioverse.org/escalas-e-multiversos.html · Avançado
+
+Do comprimento de Planck ao universo observável há mais de 60 potências de dez.
+
+Um fio de cabelo tem cerca de um décimo de milímetro. Parece pequeno, mas, em escala logarítmica, ele fica quase exatamente no meio do caminho entre a menor distância com sentido físico conhecido, o comprimento de Planck, e o tamanho do universo observável. Entre um extremo e outro há mais de 60 potências de dez, e cada salto de escala mostra um mundo com regras próprias.
+
+Uma analogia
+
+O universo observável é como a área iluminada por um farol numa noite de neblina. Enxergamos até onde a luz alcança, e isso não quer dizer que o mundo acabe ali. O que há além da neblina pode ser inferido por pistas, mas não visto. E a ideia de outros mundos, com outras regras, é como imaginar outras ilhas além do oceano: possível, discutida, mas ainda sem barco que chegue lá.
+
+Explicando para uma criança
+
+Imagine uma régua mágica que encolhe e cresce. Encolhendo, você vê uma formiga, depois uma célula, depois um átomo, e o átomo é quase todo vazio! Crescendo, você vê a Terra, o Sol, a nossa galáxia e bilhões de outras galáxias. Os cientistas sabem muita coisa nessas escalas. Mas no menorzinho do menorzinho e lá longe, além do que dá para ver, ainda há muito mistério, e algumas pessoas imaginam que existem outros universos. Isso ainda é uma ideia, não uma descoberta.
+
+Ao fim desta lição, você vai conseguir
+
+- Usar potências de dez para situar objetos do comprimento de Planck ao universo observável.
+- Explicar por que o universo observável é maior que 13,8 bilhões de anos-luz e o que fica além dele.
+- Distinguir os tipos de multiverso e avaliar seu status científico.
+
+Ajuda ter lido: Teorias unificadas e a busca por elas, O critério da demarcação.
+
+Antes de ler: o que você pensa?
+
+Uma reportagem diz que “físicos encontraram indícios de universos paralelos” porque um modelo teórico prevê a existência deles.
+
+A manchete descreve bem o resultado?
+
+Ver o que a lição responde
+
+Não. Um modelo que prevê algo não é evidência de que esse algo existe; é preciso uma observação que o confirme. As buscas por sinais de outros universos, como marcas de colisão de bolhas na radiação cósmica de fundo, não encontraram nada até agora.
+
+## Potências de dez
+
+Para falar de coisas muito pequenas ou muito grandes, a ciência usa potências de dez e prefixos. Um quilômetro é 10³ metros; um nanômetro, 10⁻⁹ metro. Em 2022, a Conferência Geral de Pesos e Medidas criou os prefixos mais extremos do Sistema Internacional: quetta (10³⁰) e quecto (10⁻³⁰). O curta “Powers of Ten” (1977), de Charles e Ray Eames, ficou famoso por percorrer essas escalas, de um piquenique até as galáxias e de volta ao interior de um átomo.
+
+## Descendo: do átomo ao zepto
+
+| Escala | Tamanho aproximado | O que há ali |
+
+| Micrômetro (10⁻⁶ m) | Bactérias e células | O limite do microscópio óptico comum |
+
+| Nanômetro (10⁻⁹ m) | Moléculas, DNA | Um átomo tem cerca de 0,1 nanômetro |
+
+| Femtômetro (10⁻¹⁵ m) | Núcleo atômico, prótons | O raio do próton é de cerca de 0,84 femtômetro; o núcleo é cem mil vezes menor que o átomo |
+
+| Attômetro (10⁻¹⁸ m) | Quarks e elétrons | Até onde se mediu, não têm tamanho: são tratados como pontos |
+
+| Zeptômetro (10⁻²¹ m) | O “zeptoverso” | Um pouco além do que os maiores aceleradores conseguem sondar, na casa de 10⁻¹⁹ a 10⁻²⁰ m |
+
+| Comprimento de Planck (≈ 1,6 × 10⁻³⁵ m) | Escala da gravidade quântica | Onde se espera que a gravidade e a física quântica precisem de uma teoria única |
+
+O domínio do zeptômetro, que alguns divulgadores apelidam de zeptoverso, é a fronteira do que a física de partículas alcança: para enxergar distâncias menores, é preciso concentrar energias maiores, e o Grande Colisor de Hádrons (LHC) já opera perto do limite da tecnologia atual. Abaixo dali, até o comprimento de Planck, há cerca de 14 potências de dez inexploradas diretamente. Não se sabe se o espaço é contínuo até o fim ou se tem uma estrutura granular; a ideia de que o comprimento de Planck seria o “pixel” do universo é especulação, não resultado.
+
+## Subindo: da Terra ao universo observável
+
+| Escala | Tamanho aproximado |
+
+| Terra | Cerca de 12.700 km de diâmetro |
+
+| Distância Terra–Sol (unidade astronômica) | Cerca de 150 milhões de km; a luz leva 8 minutos |
+
+| Ano-luz | Cerca de 9,5 trilhões de km |
+
+| Via Láctea | Cerca de 100 mil anos-luz de diâmetro, com centenas de bilhões de estrelas |
+
+| Galáxia de Andrômeda | A cerca de 2,5 milhões de anos-luz |
+
+| Universo observável | Cerca de 93 bilhões de anos-luz de diâmetro |
+
+Se o universo tem 13,8 bilhões de anos, como o observável pode ter 93 bilhões de anos-luz de diâmetro? Porque o espaço se expandiu enquanto a luz viajava: os objetos mais distantes cuja luz nos alcança hoje estão agora a cerca de 46 bilhões de anos-luz. O universo observável é uma bolha definida pelo que a luz teve tempo de trazer até nós, e não o universo inteiro.
+
+## E além do observável?
+
+Não podemos ver além do horizonte, mas podemos inferir. As medidas da geometria do universo indicam que ele é muito próximo de plano. Isso é compatível com um universo infinito e, se ele for finito, indica que é bem maior do que a parte que vemos. Até aqui, a ciência está em terreno firme: há evidência e há previsões testáveis.
+
+## Multiversos: hipóteses, não descobertas
+
+A palavra multiverso reúne ideias diferentes, com graus diferentes de apoio. O físico Max Tegmark propôs classificá-las em quatro níveis:
+
+- Nível I, regiões além do horizonte. Se o espaço é infinito, há regiões que nunca veremos, com as mesmas leis físicas. É a versão mais conservadora: decorre de um universo infinito, se ele for.
+
+- Nível II, universos-bolha. Algumas versões da inflação cósmica, a expansão ultrarrápida do início, sugerem que ela nunca para em toda parte e gera “bolhas” com constantes físicas diferentes. A teoria das cordas, com seu enorme número de soluções possíveis, é às vezes combinada a essa ideia.
+
+- Nível III, muitos mundos. Na interpretação de Hugh Everett da mecânica quântica, todos os resultados possíveis de uma medida acontecem, em ramos que deixam de interagir. Veja a lição sobre as interpretações da mecânica quântica.
+
+- Nível IV, multiverso matemático. A proposta do próprio Tegmark de que toda estrutura matemática existe fisicamente. É a mais especulativa e a mais distante de qualquer teste.
+
+Uma motivação comum é o ajuste fino: algumas constantes da física parecem ter os valores certos para permitir estrelas, química e vida. Num multiverso com muitas combinações, não seria surpresa estarmos num universo compatível com observadores, porque só nesses haveria alguém para perguntar. É o raciocínio antrópico, que divide os físicos.
+
+## É ciência?
+
+Esse é o centro do debate. Críticos como George Ellis e Joseph Silk escreveram em 2014, na revista Nature, que teorias sem teste possível ameaçam a integridade da física. Defensores respondem que um multiverso pode ser consequência de teorias testáveis, como a inflação, e que aceitar as consequências inobserváveis de uma teoria bem confirmada é ciência normal. Houve tentativas de teste, como procurar marcas de colisões entre bolhas na radiação cósmica de fundo; nenhuma encontrou sinal. O retrato honesto é: o universo observável é ciência bem estabelecida; o que existe além dele é inferência; os multiversos dos níveis II a IV são hipóteses em aberto, discutidas à luz do critério de demarcação.
+
+Para guardar: do comprimento de Planck ao universo observável há mais de 60 potências de dez. A física de partículas sonda até perto do zeptômetro; abaixo disso, até a escala de Planck, quase tudo é desconhecido. O universo observável tem cerca de 93 bilhões de anos-luz porque o espaço se expandiu enquanto a luz viajava. Além dele, só inferência, e os multiversos são hipóteses de testabilidade discutida, não descobertas.
+
+## Para guardar
+
+- Do comprimento de Planck ao universo observável há mais de 60 potências de dez; abaixo do zeptômetro, quase tudo é desconhecido.
+- O universo observável tem cerca de 93 bilhões de anos-luz porque o espaço se expandiu enquanto a luz viajava.
+- Multiversos são hipóteses de testabilidade discutida, não descobertas.
+
+Para pensar
+
+Se uma teoria muito bem testada previsse algo que nunca poderemos observar, você aceitaria essa consequência como conhecimento científico? Por quê?
+
+Erro comum: “O universo observável é o universo inteiro.” O observável é só a parte de onde a luz teve tempo de chegar até nós. As medidas indicam que o universo é muito maior, possivelmente infinito.
+
+Pratique: Consenso, em aberto ou refutado?. Doze afirmações. Diga se a ciência considera cada uma estabelecida, ainda em aberto ou já refutada.
+
+## Fontes e leituras
+
+- Powers of Ten (Wikipédia)
+- Orders of magnitude (length) (Wikipédia)
+- Metric prefix (Wikipédia)
+- Planck units (Wikipédia)
+- Observable universe (Wikipédia)
+- Multiverse (Wikipédia)
+- Scientific method: Defend the integrity of physics (Nature, 2014)
+- Cosmology (Stanford Encyclopedia)
+
+← AnteriorTeorias unificadas e a busca por elasPróxima →Bayesianismo: atualizar crenças com evidências
 
 ---
 
@@ -7083,7 +7210,7 @@ Erro comum: “Uma teoria de tudo explicaria literalmente tudo.” Explicaria as
 - Modelo Padrão (Wikipédia)
 - Grand Unified Theory (Wikipédia)
 
-← AnteriorAs interpretações da mecânica quânticaPróxima →Bayesianismo: atualizar crenças com evidências
+← AnteriorAs interpretações da mecânica quânticaPróxima →Das escalas ao multiverso: do zepto ao cosmos
 
 ---
 

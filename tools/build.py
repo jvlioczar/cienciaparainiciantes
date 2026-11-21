@@ -30,6 +30,7 @@ from casos_novos5 import P_NOVOS4
 from licoes_novas7 import NOVAS7_INTERMEDIARIO, POSICAO7
 from casos_novos6 import DEBATES_NOVOS6
 from licoes_novas8 import NOVAS8_INICIANTE, POSICAO8
+from licoes_novas9 import NOVAS9_AVANCADO, POSICAO9
 FERR.insert(4, JOGO_CONSENSO); JOGOS[JOGO_CONSENSO[0]] = JOGO_CONSENSO_DADOS; GLOSSARIO.extend(GLOSSARIO_NOVOS)
 from crossover import caixa_ciencia  # ponte com os sites irmãos (tools/crossover.py, igual nos três sites)
 import arte
@@ -80,6 +81,7 @@ CAMPOS = ('slug', 'grupo', 'titulo', 'temas', 'resumo', 'corpo', 'fontes', 'quiz
 # as lições da sétima leva entram depois de lições de levas anteriores, por isso vêm por último
 for _l in NOVAS7_INTERMEDIARIO: _apos(INTERMEDIARIO, POSICAO7[_l['slug']], _l)
 for _l in NOVAS8_INICIANTE: _apos(INICIANTE, POSICAO8[_l['slug']], _l)
+for _l in NOVAS9_AVANCADO: _apos(AVANCADO, POSICAO9[_l['slug']], _l)
 for _n, _ls in (('iniciante', INICIANTE), ('intermediario', INTERMEDIARIO), ('avancado', AVANCADO)):
     _o = ORDEM_GRUPOS[_n]; assert all(_l['grupo'] in _o for _l in _ls), [_l['slug'] for _l in _ls if _l['grupo'] not in _o]
     _ls.sort(key=lambda l: _o.index(l['grupo']))
