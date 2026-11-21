@@ -74,6 +74,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = 'https://cienciaparainiciantes.biblioverse.org'
 NOME = 'Ciência Para Iniciantes'
 EXT = 'target="_blank" rel="noopener"'
+CF_TOKEN = '426d90c164a34065b9ddf1b188f8e06e'  # Cloudflare Web Analytics (uma conta por hostname; troque aqui se mudar)
+CF_SNIPPET = f"""<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "{CF_TOKEN}"}}'></script><!-- End Cloudflare Web Analytics -->"""
 ATUALIZADO = '2026-11-20'
 CAMPOS = ('slug', 'grupo', 'titulo', 'temas', 'resumo', 'corpo', 'fontes', 'quiz', 'analogia', 'crianca', 'obj', 'caso', 'erro', 'ferr', 'pre', 'guardar', 'pensar')
 
@@ -258,6 +260,7 @@ def page(path, title, desc, corpo, atual='', home=False):
 </div></footer>
 <noscript><p class="nojs">A leitura funciona sem JavaScript. A busca, os menus suspensos, os testes e as ferramentas interativas precisam dele; o rodapé tem links para todas as seções.</p></noscript>
 <script src="{pre}assets/app.min.js?v={VERSAO}" defer></script>
+{CF_SNIPPET}
 </body></html>
 '''
     html = html.replace('href="index.html"', 'href="./"').replace('href="../index.html"', 'href="../"')
@@ -664,12 +667,13 @@ def sites_pub():
     page('sites.html', 'Biblioteca de sites sobre ciência', 'Enciclopédias de filosofia, Cochrane, agências de checagem, divulgação científica e sites sobre pseudociência, em português e inglês.', corpo, atual='sites.html')
 
 def privacidade():
-    corpo = cabeca('Sobre', 'Política de privacidade', 'Em resumo: não há cadastro, não usamos cookies próprios nem ferramentas de análise de visitas.') + '''<div class="wrap estreito leitura secao"><p class="abre">Esta página explica quais dados podem ser tratados quando você usa o Ciência Para Iniciantes, em linha com a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018).</p>
+    corpo = cabeca('Sobre', 'Política de privacidade', 'Em resumo: não há cadastro, não usamos cookies próprios nem publicidade; só contamos visitas de forma agregada, sem identificar ninguém.') + '''<div class="wrap estreito leitura secao"><p class="abre">Esta página explica quais dados podem ser tratados quando você usa o Ciência Para Iniciantes, em linha com a Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018).</p>
 <p><em>Última atualização: 6 de novembro de 2026.</em></p>
-<h2>O que não fazemos</h2><ul><li>Não pedimos cadastro, login ou pagamento.</li><li>Não há formulário que envie seus dados para nós.</li><li>Não usamos cookies próprios, publicidade ou ferramentas de análise de visitas.</li><li>Não vendemos nem compartilhamos dados pessoais.</li></ul>
+<h2>O que não fazemos</h2><ul><li>Não pedimos cadastro, login ou pagamento.</li><li>Não há formulário que envie seus dados para nós.</li><li>Não usamos cookies próprios nem publicidade.</li><li>Não vendemos nem compartilhamos dados pessoais.</li></ul>
+<h2>Contagem de visitas</h2><p>Para saber quantas pessoas visitam o site e quais páginas leem, usamos o Cloudflare Web Analytics. Ele não grava cookies, não guarda nada no seu aparelho e não segue você por outros sites: só conta as visualizações de página, com dados como o país, o aparelho e a página de onde você veio. Nós só vemos os totais, nunca quem você é. A Cloudflare trata esses dados segundo a <a href="https://www.cloudflare.com/pt-br/privacypolicy/" target="_blank" rel="noopener">política de privacidade dela</a>.</p>
 <h2>O que fica no seu navegador</h2><p>O recurso “Marcar como lida” e as posições nos debates usam o armazenamento local (<em>localStorage</em>) do seu aparelho. Essa informação não é enviada para nós. As respostas às ferramentas e aos testes rápidos não são guardadas.</p>
 <p>Para apagar, limpe os dados deste site nas configurações do navegador.</p>
-<h2>Serviços de terceiros</h2><div class="tabela"><table><thead><tr><th>Serviço</th><th>Para quê</th></tr></thead><tbody><tr><td>Hospedagem do site</td><td>Entregar as páginas. O provedor pode manter registros técnicos de acesso</td></tr><tr><td><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Fonts</a></td><td>Carregar as fontes do site</td></tr><tr><td><a href="https://biblioverse.org">BiblioVerse</a></td><td>Carregar a barra superior com as bibliotecas da BiblioVerse</td></tr></tbody></table></div>
+<h2>Serviços de terceiros</h2><div class="tabela"><table><thead><tr><th>Serviço</th><th>Para quê</th></tr></thead><tbody><tr><td>Hospedagem do site</td><td>Entregar as páginas. O provedor pode manter registros técnicos de acesso</td></tr><tr><td><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Fonts</a></td><td>Carregar as fontes do site</td></tr><tr><td><a href="https://biblioverse.org">BiblioVerse</a></td><td>Carregar a barra superior com as bibliotecas da BiblioVerse</td></tr><tr><td><a href="https://www.cloudflare.com/pt-br/privacypolicy/" target="_blank" rel="noopener">Cloudflare Web Analytics</a></td><td>Contar as visualizações de página, de forma agregada, sem cookies e sem identificar quem visita</td></tr></tbody></table></div>
 <h2>Links externos</h2><p>Indicamos fontes, livros e sites. Ao acessá-los, valem as regras de privacidade de cada um.</p>
 <h2>Seus direitos</h2><p>A LGPD garante direitos como acesso, correção e eliminação de dados pessoais. Como não mantemos cadastro, em geral não temos dados que permitam identificar você.</p></div>'''
     page('privacidade.html', 'Política de privacidade', 'Quais dados podem ser tratados ao usar o Ciência Para Iniciantes, e o que fica só no seu navegador.', corpo)
