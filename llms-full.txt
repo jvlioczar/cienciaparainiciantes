@@ -613,13 +613,19 @@ Esses critérios lembram os propostos pelo epidemiologista Austin Bradford Hill 
 
 “Correlação não é causalidade” não quer dizer que correlação não significa nada. Ela é um indício que merece investigação. Usar a frase para descartar qualquer estudo observacional incômodo, como fez a indústria do tabaco por décadas, é outro erro.
 
+## E o contrário: sem correlação, sem causa?
+
+Também não. Uma causa real pode quase não aparecer como correlação quando efeitos se compensam. O exemplo clássico é o do termostato, usado pelo economista Milton Friedman: numa casa com aquecimento bem regulado, a temperatura interna fica quase igual o ano todo, trabalhe o aquecedor muito ou pouco. Olhando só os dados, a quantidade de aquecimento quase não se correlaciona com a temperatura da casa, e mesmo assim é o aquecedor que a mantém estável. O mesmo pode acontecer quando uma causa age por dois caminhos opostos, como um remédio que baixa um sintoma por um mecanismo e o aumenta por outro.
+
+Quão comum isso é? Um ensaio exploratório de 2022 simulou milhares de modelos causais aleatórios e estimou que, neles, no máximo cerca de 5% das relações de causa aparecem com correlação pequena demais para ser notada. O próprio autor trata o resultado como preliminar. A lição prática: correlação fraca ou nula é um indício contra uma causa, não uma prova de que ela não existe.
+
 Pergunta-chave: diante de “quem faz X tem mais Y”, pergunte: e se for Y que leva a X? Que terceira coisa poderia causar as duas?
 
 ## Para guardar
 
 - Andar junto não é causar.
 - Pergunte sempre por causalidade reversa, por um terceiro fator e por coincidência.
-- Correlação é indício a investigar, não algo a descartar.
+- Correlação é indício a investigar, não algo a descartar; e a falta dela não prova que não há causa.
 
 Para pensar
 
@@ -640,6 +646,7 @@ Na BiblioVerse: Biblioteca de Dados, catálogo pesquisável das melhores fontes 
 - Correlation does not imply causation (Wikipédia)
 - Spurious Correlations
 - Critérios de Bradford Hill (Wikipédia)
+- How Often Does ¬Correlation ⇏ ¬Causation?
 
 ← AnteriorAs grandes perguntas em abertoPróxima →O que é pseudociência?
 
